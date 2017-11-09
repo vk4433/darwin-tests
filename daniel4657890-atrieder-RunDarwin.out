@@ -1,0 +1,399 @@
+*** Darwin 8x8 ***
+Turn = 0.
+  01234567
+0 f.......
+1 ........
+2 ........
+3 ...hh...
+4 ...hh...
+5 ........
+6 ........
+7 .......f
+
+Turn = 1.
+  01234567
+0 f.......
+1 ........
+2 ...h....
+3 .....h..
+4 ..h.....
+5 ....h...
+6 ........
+7 .......f
+
+Turn = 2.
+  01234567
+0 f.......
+1 ...h....
+2 ........
+3 ......h.
+4 .h......
+5 ........
+6 ....h...
+7 .......f
+
+Turn = 3.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+Turn = 4.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+Turn = 5.
+  01234567
+0 f..h....
+1 ........
+2 ........
+3 .......h
+4 h.......
+5 ........
+6 ........
+7 ....h..f
+
+*** Darwin 7x9 ***
+Turn = 0.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ..h......
+4 .........
+5 ....r....
+6 ........t
+
+Turn = 1.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ...h.....
+4 ....r....
+5 .........
+6 ........t
+
+Turn = 2.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ....r....
+4 ....r....
+5 .........
+6 ........t
+
+Turn = 3.
+  012345678
+0 t........
+1 .........
+2 .........
+3 ....rr...
+4 .........
+5 .........
+6 ........t
+
+Turn = 4.
+  012345678
+0 t........
+1 .........
+2 ....r....
+3 ......r..
+4 .........
+5 .........
+6 ........t
+
+Turn = 5.
+  012345678
+0 t........
+1 ....r....
+2 .........
+3 .......r.
+4 .........
+5 .........
+6 ........t
+
+*** Darwin 5x5 ***
+Turn = 0.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 1.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 2.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 3.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 4.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 5.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 6.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 7.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 8.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 9.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+Turn = 10.
+  01234
+0 fffff
+1 fffff
+2 fffff
+3 fffff
+4 fffff
+
+*** Darwin 5x10 ***
+Turn = 0.
+  0123456789
+0 hhhhh.....
+1 hhhhh.....
+2 hhhhh.....
+3 hhhhh.....
+4 hhhhh.....
+
+Turn = 1.
+  0123456789
+0 hhhh.h....
+1 hhhh.h....
+2 hhhh.h....
+3 hhhh.h....
+4 hhhh.h....
+
+Turn = 2.
+  0123456789
+0 hhh.h.h...
+1 hhh.h.h...
+2 hhh.h.h...
+3 hhh.h.h...
+4 hhh.h.h...
+
+Turn = 3.
+  0123456789
+0 hh.h.h.h..
+1 hh.h.h.h..
+2 hh.h.h.h..
+3 hh.h.h.h..
+4 hh.h.h.h..
+
+Turn = 4.
+  0123456789
+0 h.h.h.h.h.
+1 h.h.h.h.h.
+2 h.h.h.h.h.
+3 h.h.h.h.h.
+4 h.h.h.h.h.
+
+Turn = 5.
+  0123456789
+0 .h.h.h.h.h
+1 .h.h.h.h.h
+2 .h.h.h.h.h
+3 .h.h.h.h.h
+4 .h.h.h.h.h
+
+*** Darwin 10x50 ***
+Turn = 0.
+  01234567890123456789012345678901234567890123456789
+0 rhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 rhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+6 rhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 rhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrhhrh
+
+Turn = 1000.
+  01234567890123456789012345678901234567890123456789
+0 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+1 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+2 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+3 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+4 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+5 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+6 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+7 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+8 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+9 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+*** Darwin 50x50 ***
+Turn = 0.
+  01234567890123456789012345678901234567890123456789
+0 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+6 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+0 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+6 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+0 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+6 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+0 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+6 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+0 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+1 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+2 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+3 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+4 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+5 thhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhhthhhh
+6 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+7 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+8 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+9 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+Turn = 1000.
+  01234567890123456789012345678901234567890123456789
+0 tttttttttttttttttttttttttttttttttttttttttttttttttt
+1 tttttttttttttttttttttttttttttttttttttttttttttttttt
+2 tttttttttttttttttttttttttttttttttttttttttttttttttt
+3 tttttttttttttttttttttttttttttttttttttttttttttttttt
+4 tttttttttttttttttttttttttttttttttttttttttttttttttt
+5 tttttttttttttttttttttttttttttttttttttttttttttttttt
+6 tttttttttttttttttttttttttttttttttttttttttttttttttt
+7 tttttttttttttttttttttttttttttttttttttttttttttttttt
+8 tttttttttttttttttttttttttttttttttttttttttttttttttt
+9 tttttttttttttttttttttttttttttttttttttttttttttttttt
+0 tttttttttttttttttttttttttttttttttttttttttttttttttt
+1 tttttttttttttttttttttttttttttttttttttttttttttttttt
+2 tttttttttttttttttttttttttttttttttttttttttttttttttt
+3 tttttttttttttttttttttttttttttttttttttttttttttttttt
+4 tttttttttttttttttttttttttttttttttttttttttttttttttt
+5 tttttttttttttttttttttttttttttttttttttttttttttttttt
+6 tttttttttttttttttttttttttttttttttttttttttttttttttt
+7 tttttttttttttttttttttttttttttttttttttttttttttttttt
+8 tttttttttttttttttttttttttttttttttttttttttttttttttt
+9 tttttttttttttttttttttttttttttttttttttttttttttttttt
+0 tttttttttttttttttttttttttttttttttttttttttttttttttt
+1 tttttttttttttttttttttttttttttttttttttttttttttttttt
+2 tttttttttttttttttttttttttttttttttttttttttttttttttt
+3 tttttttttttttttttttttttttttttttttttttttttttttttttt
+4 tttttttttttttttttttttttttttttttttttttttttttttttttt
+5 tttttttttttttttttttttttttttttttttttttttttttttttttt
+6 tttttttttttttttttttttttttttttttttttttttttttttttttt
+7 tttttttttttttttttttttttttttttttttttttttttttttttttt
+8 tttttttttttttttttttttttttttttttttttttttttttttttttt
+9 tttttttttttttttttttttttttttttttttttttttttttttttttt
+0 tttttttttttttttttttttttttttttttttttttttttttttttttt
+1 tttttttttttttttttttttttttttttttttttttttttttttttttt
+2 tttttttttttttttttttttttttttttttttttttttttttttttttt
+3 tttttttttttttttttttttttttttttttttttttttttttttttttt
+4 tttttttttttttttttttttttttttttttttttttttttttttttttt
+5 tttttttttttttttttttttttttttttttttttttttttttttttttt
+6 tttttttttttttttttttttttttttttttttttttttttttttttttt
+7 tttttttttttttttttttttttttttttttttttttttttttttttttt
+8 tttttttttttttttttttttttttttttttttttttttttttttttttt
+9 tttttttttttttttttttttttttttttttttttttttttttttttttt
+0 tttttttttttttttttttttttttttttttttttttttttttttttttt
+1 tttttttttttttttttttttttttttttttttttttttttttttttttt
+2 tttttttttttttttttttttttttttttttttttttttttttttttttt
+3 tttttttttttttttttttttttttttttttttttttttttttttttttt
+4 tttttttttttttttttttttttttttttttttttttttttttttttttt
+5 tttttttttttttttttttttttttttttttttttttttttttttttttt
+6 tttttttttttttttttttttttttttttttttttttttttttttttttt
+7 tttttttttttttttttttttttttttttttttttttttttttttttttt
+8 tttttttttttttttttttttttttttttttttttttttttttttttttt
+9 tttttttttttttttttttttttttttttttttttttttttttttttttt
