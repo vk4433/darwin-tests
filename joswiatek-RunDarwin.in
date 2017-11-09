@@ -1,0 +1,332 @@
+16
+
+8 26
+49
+f 0 3 s
+f 0 8 n
+r 0 16 e
+h 0 21 e
+f 0 24 n
+h 0 25 n
+t 1 2 n
+r 1 3 s
+t 1 9 e
+f 1 10 s
+f 1 14 n
+f 1 15 w
+r 1 20 s
+r 1 24 w
+h 2 5 s
+r 2 11 e
+f 2 21 w
+h 3 0 s
+f 3 3 e
+f 3 15 e
+r 3 18 s
+t 4 0 s
+t 4 4 e
+h 4 11 e
+r 4 15 w
+h 4 18 w
+h 4 21 s
+r 5 4 s
+f 5 11 w
+h 5 16 w
+f 5 21 s
+f 5 24 e
+t 6 0 w
+h 6 2 n
+h 6 4 n
+f 6 7 e
+t 6 10 s
+f 6 14 s
+h 6 15 w
+h 6 16 w
+f 6 17 e
+h 6 25 n
+r 7 3 n
+r 7 4 e
+t 7 5 w
+h 7 15 s
+t 7 19 s
+t 7 23 s
+h 7 25 s
+20 4
+
+14 4
+2
+t 7 1 e
+t 8 1 e
+21 5
+
+10 6
+2
+f 2 1 n
+h 7 0 s
+8 1
+
+15 3
+1
+f 10 2 w
+18 1
+
+18 11
+16
+r 2 2 e
+r 6 1 e
+f 6 2 w
+h 8 0 e
+f 9 6 e
+f 9 7 s
+h 9 9 w
+r 10 4 w
+h 11 9 w
+t 12 2 e
+h 14 10 n
+h 15 2 w
+h 16 3 n
+h 16 4 e
+r 16 5 e
+f 16 7 n
+32 2
+
+12 15
+20
+r 0 4 e
+t 0 8 w
+h 0 12 w
+f 0 14 n
+f 1 2 n
+r 2 2 e
+f 2 8 w
+t 3 1 w
+t 3 12 w
+h 4 0 w
+r 5 0 s
+t 5 7 e
+t 5 14 w
+r 6 7 s
+r 7 8 n
+t 8 6 w
+f 9 0 w
+t 9 4 w
+t 10 6 s
+t 11 11 n
+37 4
+
+5 1
+0
+8 1
+
+25 24
+86
+t 0 5 s
+f 0 8 n
+r 0 9 w
+h 0 13 w
+t 0 20 e
+f 0 22 s
+r 1 6 e
+f 2 1 s
+r 2 14 s
+t 3 1 e
+t 3 10 s
+f 3 13 n
+r 3 16 e
+h 3 19 e
+r 4 0 n
+r 4 4 w
+t 4 6 e
+h 4 17 n
+r 4 20 e
+h 5 4 s
+t 5 8 e
+h 6 6 w
+h 6 13 e
+r 6 17 w
+r 6 18 e
+h 7 0 n
+h 7 4 e
+f 7 14 e
+f 7 22 s
+r 8 2 s
+h 8 9 e
+h 8 18 e
+f 9 9 s
+t 9 16 w
+r 9 19 w
+f 10 8 s
+r 10 15 n
+h 10 16 w
+r 10 18 s
+h 10 21 s
+f 11 6 s
+h 11 7 s
+f 11 8 e
+f 11 16 e
+h 12 12 e
+r 13 3 e
+t 13 10 s
+h 13 18 n
+h 13 21 w
+t 14 9 e
+f 14 10 n
+h 14 14 w
+t 14 22 n
+f 14 23 e
+r 16 0 w
+t 16 1 s
+t 16 4 e
+f 16 5 s
+t 17 1 n
+t 17 5 w
+h 17 11 e
+f 17 18 e
+t 17 19 w
+f 18 9 s
+r 18 11 n
+t 19 2 w
+f 19 4 w
+h 19 17 w
+f 19 21 e
+t 20 0 w
+r 21 1 n
+r 21 11 s
+r 21 12 n
+r 21 17 e
+r 21 21 s
+h 22 3 w
+r 22 5 w
+h 22 7 w
+f 22 10 w
+f 22 16 w
+t 22 17 s
+h 23 16 n
+f 23 21 e
+f 24 16 e
+t 24 18 n
+h 24 21 n
+24 2
+
+16 18
+27
+r 0 17 e
+f 1 10 e
+f 3 0 n
+r 3 10 n
+f 5 4 s
+f 5 10 w
+f 6 14 w
+f 7 2 s
+h 7 4 w
+r 7 5 s
+f 7 9 e
+t 7 11 e
+r 8 3 w
+f 8 8 w
+t 8 10 s
+r 8 14 w
+f 9 8 w
+h 9 15 s
+r 9 16 w
+f 9 17 w
+f 10 2 n
+f 12 11 s
+r 13 0 s
+r 13 6 e
+t 13 7 w
+r 13 15 n
+r 14 6 s
+36 4
+
+14 2
+4
+t 0 0 e
+h 3 0 s
+t 4 1 e
+r 8 0 n
+12 3
+
+21 24
+25
+t 0 11 w
+t 1 7 w
+r 1 18 w
+r 2 1 e
+t 3 15 w
+f 5 0 e
+h 5 1 w
+h 6 7 w
+f 8 0 e
+h 8 14 s
+t 8 15 e
+r 9 16 e
+t 9 20 s
+h 10 5 n
+r 10 16 s
+h 11 15 e
+t 13 7 n
+h 14 10 e
+t 14 23 s
+f 15 0 e
+r 17 1 s
+f 19 19 e
+h 19 20 s
+r 20 4 n
+h 20 8 s
+31 2
+
+10 14
+1
+f 4 12 e
+9 1
+
+1 16
+1
+h 0 7 s
+35 5
+
+14 17
+2
+h 4 4 n
+t 11 3 n
+17 2
+
+8 11
+8
+r 0 1 s
+t 0 7 w
+h 1 6 w
+f 2 1 w
+r 3 7 e
+f 4 0 w
+f 6 7 w
+f 6 8 n
+43 3
+
+11 17
+22
+r 0 1 n
+r 0 12 w
+h 1 2 n
+h 1 15 n
+h 2 4 w
+r 3 14 e
+t 3 16 e
+h 4 0 e
+f 4 1 s
+r 4 4 s
+r 4 12 s
+h 5 14 s
+t 6 8 w
+r 6 13 w
+r 6 15 w
+f 7 2 n
+t 7 9 n
+t 8 14 e
+r 9 3 w
+h 9 14 n
+t 9 16 e
+h 10 13 e
+15 2
+
