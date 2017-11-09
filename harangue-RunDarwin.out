@@ -1,0 +1,7529 @@
+*** Darwin 7x4 ***
+Turn = 0.
+  0123
+0 rrrr
+1 hhrf
+2 .hrt
+3 hh.r
+4 fhrh
+5 thhr
+6 rhtr
+
+Turn = 16.
+  0123
+0 rrr.
+1 rrr.
+2 rrrr
+3 rrrr
+4 rrrr
+5 rrrr
+6 rrrr
+
+Turn = 32.
+  0123
+0 rrr.
+1 rrrr
+2 rrrr
+3 rrrr
+4 rrrr
+5 rr.r
+6 rrrr
+
+Turn = 48.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+3 rr.r
+4 rrrr
+5 rrrr
+6 rr.r
+
+Turn = 64.
+  0123
+0 rr.r
+1 rrrr
+2 rrrr
+3 rrrr
+4 rrrr
+5 rrrr
+6 rrr.
+
+*** Darwin 3x4 ***
+Turn = 0.
+  0123
+0 frht
+1 rrhf
+2 frhr
+
+Turn = 10.
+  0123
+0 trrt
+1 rrrt
+2 rttt
+
+Turn = 20.
+  0123
+0 rrrt
+1 rtrr
+2 rtrr
+
+Turn = 30.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 40.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 50.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 60.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 70.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 80.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 90.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 100.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 110.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 120.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 130.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 140.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 150.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+Turn = 160.
+  0123
+0 rrrr
+1 rrrr
+2 rrrr
+
+*** Darwin 10x6 ***
+Turn = 0.
+  012345
+0 ..hf.h
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 ......
+
+Turn = 16.
+  012345
+0 ..hf..
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 .....h
+
+Turn = 32.
+  012345
+0 ..hf..
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 .....h
+
+Turn = 48.
+  012345
+0 ..hf..
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 .....h
+
+Turn = 64.
+  012345
+0 ..hf..
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 .....h
+
+Turn = 80.
+  012345
+0 ..hf..
+1 ......
+2 ......
+3 ......
+4 ......
+5 ...t..
+6 ......
+7 ......
+8 ......
+9 .....h
+
+*** Darwin 10x10 ***
+Turn = 0.
+  0123456789
+0 ....hrt..t
+1 h......h..
+2 ...hr.rt..
+3 thhft...ht
+4 ..h..t.fth
+5 ..rr..r...
+6 hrft.f.tf.
+7 ..rt....r.
+8 hf....hhr.
+9 ...r.h.h..
+
+Turn = 5.
+  0123456789
+0 ....r.hrrr
+1 ..........
+2 t..rr....t
+3 r.h.rh.rrt
+4 rr.r.ttr.t
+5 r.......r.
+6 r.tt.rrrt.
+7 .r.rr..r.r
+8 rr.t...h..
+9 .......rr.
+
+Turn = 10.
+  0123456789
+0 rr.rr..rr.
+1 .......rrr
+2 t......r.r
+3 t....rr..r
+4 rr.r..r.rr
+5 t..r..rrr.
+6 rttt...r.r
+7 r..tt.....
+8 .r.t.....r
+9 .r...r..rr
+
+Turn = 15.
+  0123456789
+0 rr...r.r..
+1 r.r.......
+2 r.r....r.r
+3 rrr....rr.
+4 ttrr.r...r
+5 ttr.....r.
+6 ttrt......
+7 .rr..rr..r
+8 .r.r....r.
+9 ..r.rr.rrr
+
+Turn = 20.
+  0123456789
+0 r.rr.r....
+1 r.r.......
+2 rr.r......
+3 rr.r......
+4 rtttt.r...
+5 ttt.......
+6 tttt.....r
+7 .r....r.rr
+8 rr....rrrr
+9 rr...rrrrr
+
+Turn = 25.
+  0123456789
+0 rrr.......
+1 rrr.......
+2 .rr....r..
+3 r..r..r..r
+4 rrr.rrrr.r
+5 rrt...rr..
+6 r.tt.....r
+7 tt......rr
+8 t..rrrr.rr
+9 t..r......
+
+Turn = 30.
+  0123456789
+0 rr..rrr..r
+1 rr..r.r.r.
+2 ...r.....r
+3 r.r.r....r
+4 r.r.r...r.
+5 .rr......r
+6 trrrr....r
+7 trr.r.r..r
+8 tr..r.....
+9 rrr...r...
+
+Turn = 35.
+  0123456789
+0 rr.r.rr.rr
+1 r....rr..r
+2 rrr.rr..rr
+3 ....rrrrr.
+4 ....rr....
+5 .....r....
+6 ttt.....r.
+7 trr.r.....
+8 ttt......r
+9 ttrr.r....
+
+Turn = 40.
+  0123456789
+0 rr...rrrr.
+1 r...rrr..r
+2 ...r.rrr..
+3 ...r.....r
+4 .r..r...r.
+5 r.r...r.r.
+6 tttt......
+7 ttt.......
+8 ttt..rr..r
+9 tttt.r...r
+
+Turn = 45.
+  0123456789
+0 .r.rrrrr..
+1 ....r..rr.
+2 .r........
+3 r.r....r.r
+4 ..t.r.....
+5 ..trt.r...
+6 rtttt.....
+7 rrt..r.r.r
+8 trtt.....r
+9 tttt..r.rr
+
+Turn = 50.
+  0123456789
+0 rr....rrr.
+1 ..r..r....
+2 .....rr...
+3 ...r...r..
+4 rr.r......
+5 ..trt..r..
+6 ttttt...r.
+7 rtt..r...r
+8 rrrt.r...r
+9 rrrtt.r.rr
+
+Turn = 55.
+  0123456789
+0 .r.rrr.r..
+1 r....r...r
+2 .r........
+3 r.........
+4 r.........
+5 ..ttt.r.rr
+6 ttttt..r.r
+7 ttt.t...r.
+8 ttttrr....
+9 tttttt..rr
+
+Turn = 60.
+  0123456789
+0 .r......rr
+1 r.r......r
+2 r......r..
+3 .....r....
+4 .r.t.....r
+5 .tttt.....
+6 tttttr.r..
+7 ttt.rt....
+8 tttttt.r..
+9 rtttttrr..
+
+Turn = 65.
+  0123456789
+0 ..r..r.r.r
+1 ..r...rr.r
+2 .....r....
+3 .....rrr..
+4 ....t.....
+5 .ttttt.r..
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 tttttrr...
+
+Turn = 70.
+  0123456789
+0 .....rrr.r
+1 ....rrrr..
+2 ...r......
+3 ..r.tr....
+4 ....t.r..r
+5 .ttttt....
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 tttttt....
+
+Turn = 75.
+  0123456789
+0 .r.r..rrr.
+1 .r.......r
+2 ..........
+3 r...r...r.
+4 ....rt....
+5 tttttt...r
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 tttttt...r
+
+Turn = 80.
+  0123456789
+0 r.rr.....r
+1 .r.......r
+2 ......rr..
+3 ..r.......
+4 rr..tt....
+5 ..tttt..r.
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 tttttrr..r
+
+Turn = 85.
+  0123456789
+0 rr...rr..r
+1 r...r.....
+2 rr........
+3 ..........
+4 r...tt....
+5 .tttttr...
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 ttttttt.r.
+
+Turn = 90.
+  0123456789
+0 rrr.......
+1 rr........
+2 r.r......r
+3 ...r......
+4 ...trr....
+5 .tttttt...
+6 tttttt....
+7 ttt.tt....
+8 tttttt....
+9 ttttttt..r
+
+Turn = 95.
+  0123456789
+0 ..r..r....
+1 ..r...r...
+2 .....r.r..
+3 ........r.
+4 .r.ttt....
+5 .tttttt...
+6 tttttt...r
+7 ttt.tt...r
+8 tttttt....
+9 ttttttt...
+
+Turn = 100.
+  0123456789
+0 .......r.r
+1 .......rrr
+2 .........r
+3 r......r..
+4 ...ttt....
+5 .tttttt...
+6 tttttt....
+7 ttt.tt....
+8 tttttt..r.
+9 tttttttr..
+
+Turn = 105.
+  0123456789
+0 r......r.r
+1 ....r...rr
+2 .....r....
+3 ..r.......
+4 ...ttt....
+5 .tttttt...
+6 tttttt.r..
+7 ttt.tt....
+8 ttttrr....
+9 ttttttt.r.
+
+Turn = 110.
+  0123456789
+0 ..r.r.....
+1 r......r..
+2 .r........
+3 ..r.......
+4 ...ttt....
+5 rtttttt...
+6 tttttt..rr
+7 ttt.tt....
+8 tttttt...r
+9 ttttttt...
+
+*** Darwin 5x8 ***
+Turn = 0.
+  01234567
+0 rrtfhf.f
+1 t.hr...f
+2 .hrtrhtr
+3 h.fh..rr
+4 trrtffht
+
+Turn = 8.
+  01234567
+0 r.tttttr
+1 rrt...t.
+2 .trrrrt.
+3 rrrrrrrr
+4 .rrr.rrr
+
+Turn = 16.
+  01234567
+0 .rrrrttr
+1 r..rr.rr
+2 rr.rr.t.
+3 rrr.rrtr
+4 rrrrr.rr
+
+*** Darwin 8x4 ***
+Turn = 0.
+  0123
+0 fthf
+1 hhhh
+2 frfr
+3 rthh
+4 tr.h
+5 fhhh
+6 fr.f
+7 hhtf
+
+Turn = 8.
+  0123
+0 rttt
+1 ttrr
+2 rrrr
+3 rrrr
+4 rr.r
+5 rrr.
+6 rrtt
+7 rrrr
+
+Turn = 16.
+  0123
+0 ttrr
+1 trrr
+2 rrr.
+3 rtrr
+4 rtrr
+5 rrrr
+6 .rrr
+7 rrrr
+
+Turn = 24.
+  0123
+0 tt.r
+1 tttt
+2 tttr
+3 rtrr
+4 rrrr
+5 rrrr
+6 r.rr
+7 rrrr
+
+Turn = 32.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 ttrr
+5 ttrr
+6 rrrr
+7 r.rr
+
+Turn = 40.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 48.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 56.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 64.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 72.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 80.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 88.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+Turn = 96.
+  0123
+0 ttt.
+1 tttt
+2 tttt
+3 tttt
+4 tttt
+5 tttt
+6 tt.t
+7 tttt
+
+*** Darwin 10x4 ***
+Turn = 0.
+  0123
+0 .rrh
+1 hrhf
+2 t.tt
+3 rffr
+4 .thh
+5 thtt
+6 rffh
+7 t.tf
+8 r.rr
+9 hhfr
+
+Turn = 1.
+  0123
+0 hrrr
+1 .rht
+2 t.tr
+3 tttr
+4 .tth
+5 rhtt
+6 rffh
+7 t.tf
+8 trr.
+9 hhfr
+
+Turn = 2.
+  0123
+0 hrrr
+1 .rtr
+2 t.tr
+3 tttr
+4 .ttt
+5 rttt
+6 rffh
+7 t.tf
+8 rtt.
+9 hhfr
+
+Turn = 3.
+  0123
+0 rrrr
+1 .rrr
+2 t.rr
+3 tttt
+4 rttt
+5 .ttt
+6 rffh
+7 t.tf
+8 ttt.
+9 rhrr
+
+*** Darwin 2x6 ***
+Turn = 0.
+  012345
+0 rhrttr
+1 trfff.
+
+Turn = 11.
+  012345
+0 rrrrrr
+1 rrrrr.
+
+Turn = 22.
+  012345
+0 rrrrrr
+1 rrr.rr
+
+Turn = 33.
+  012345
+0 rrrrrr
+1 rrrrr.
+
+Turn = 44.
+  012345
+0 rrrrrr
+1 rrrr.r
+
+Turn = 55.
+  012345
+0 rrrrrr
+1 rrrr.r
+
+Turn = 66.
+  012345
+0 .rrrrr
+1 rrrrrr
+
+Turn = 77.
+  012345
+0 rrrr.r
+1 rrrrrr
+
+Turn = 88.
+  012345
+0 rrrrr.
+1 rrrrrr
+
+Turn = 99.
+  012345
+0 rrrrrr
+1 r.rrrr
+
+Turn = 110.
+  012345
+0 rrrrrr
+1 rrr.rr
+
+Turn = 121.
+  012345
+0 rrr.rr
+1 rrrrrr
+
+Turn = 132.
+  012345
+0 rrrrrr
+1 rr.rrr
+
+*** Darwin 9x5 ***
+Turn = 0.
+  01234
+0 h.r..
+1 th..h
+2 rh...
+3 ..f..
+4 fht.r
+5 rr.h.
+6 ...h.
+7 h..h.
+8 t...t
+
+Turn = 9.
+  01234
+0 tr...
+1 ttr..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 18.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 27.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 36.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 45.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 54.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+Turn = 63.
+  01234
+0 rt...
+1 ttt..
+2 ttt..
+3 t.t..
+4 ttt..
+5 t.t..
+6 t....
+7 t....
+8 t..tt
+
+*** Darwin 5x6 ***
+Turn = 0.
+  012345
+0 .ttrtf
+1 rhrtrt
+2 hftf.h
+3 rhfrfh
+4 frtrrr
+
+Turn = 1.
+  012345
+0 .ttrrr
+1 rhrtrr
+2 rfrfh.
+3 rrfrfh
+4 frtrrr
+
+Turn = 2.
+  012345
+0 .ttrrr
+1 rhttrr
+2 rftfh.
+3 rrrrth
+4 frtttr
+
+Turn = 3.
+  012345
+0 .ttrrr
+1 rhtrrr
+2 rtrrh.
+3 rrrtth
+4 rrtttr
+
+Turn = 4.
+  012345
+0 .tttrr
+1 rtttr.
+2 rrtrhr
+3 rrttth
+4 rrtttr
+
+Turn = 5.
+  012345
+0 .tttrr
+1 rrttr.
+2 rrtthr
+3 rrttrr
+4 rrttrr
+
+Turn = 6.
+  012345
+0 .rttt.
+1 rttrrr
+2 rrrthr
+3 rrttrr
+4 rtttrr
+
+Turn = 7.
+  012345
+0 rtttt.
+1 .ttrrr
+2 rrrttr
+3 rtttrr
+4 rttttr
+
+Turn = 8.
+  012345
+0 rtttt.
+1 .ttrrr
+2 rrtttr
+3 rtttrr
+4 rttttt
+
+Turn = 9.
+  012345
+0 rtttt.
+1 .ttrrr
+2 rttttr
+3 rrttrr
+4 rrtttt
+
+Turn = 10.
+  012345
+0 .tttt.
+1 rttttr
+2 rrtttr
+3 rrtttr
+4 rrtttt
+
+Turn = 11.
+  012345
+0 .tttt.
+1 rrtttt
+2 rrtttr
+3 rrtttt
+4 rttttt
+
+Turn = 12.
+  012345
+0 .rttt.
+1 rrtttt
+2 rrtttt
+3 rttttt
+4 rttttt
+
+Turn = 13.
+  012345
+0 rrttt.
+1 .rtttt
+2 rttttt
+3 rttttt
+4 tttttt
+
+Turn = 14.
+  012345
+0 rrttt.
+1 r.tttt
+2 rttttt
+3 rrtttt
+4 tttttt
+
+Turn = 15.
+  012345
+0 rrttt.
+1 r.tttt
+2 rrtttt
+3 rrtttt
+4 trtttt
+
+Turn = 16.
+  012345
+0 rrrtt.
+1 r.tttt
+2 rrtttt
+3 rrtttt
+4 rttttt
+
+Turn = 17.
+  012345
+0 rrrtt.
+1 r.tttt
+2 rrtttt
+3 rttttt
+4 rttttt
+
+Turn = 18.
+  012345
+0 r.ttt.
+1 rrtrtt
+2 rrtttt
+3 rttttt
+4 tttttt
+
+Turn = 19.
+  012345
+0 r.ttt.
+1 rrrttt
+2 rrrttt
+3 rttttt
+4 tttttt
+
+Turn = 20.
+  012345
+0 r.trt.
+1 rrrrtt
+2 rrtttt
+3 rttttt
+4 tttttt
+
+Turn = 21.
+  012345
+0 r.trt.
+1 rrrrtt
+2 rrtttt
+3 tttttt
+4 tttttt
+
+Turn = 22.
+  012345
+0 r.trr.
+1 rrrrrt
+2 rrrttt
+3 tttttt
+4 tttttt
+
+Turn = 23.
+  012345
+0 rrtrrr
+1 rrtrt.
+2 t.tttt
+3 tttttt
+4 tttttt
+
+Turn = 24.
+  012345
+0 rrtrrr
+1 rrtrt.
+2 t.trtt
+3 tttttt
+4 tttttt
+
+Turn = 25.
+  012345
+0 rrrrrr
+1 trrrr.
+2 t.tttt
+3 tttttt
+4 tttttt
+
+Turn = 26.
+  012345
+0 trrrrr
+1 trrr.r
+2 t.rrtt
+3 tttrrt
+4 tttttt
+
+Turn = 27.
+  012345
+0 ttrrrr
+1 ttrr.r
+2 t.rrtt
+3 tttrrt
+4 ttttrt
+
+Turn = 28.
+  012345
+0 ttrrrr
+1 ttrrrt
+2 t.rt.t
+3 tttttt
+4 tttttt
+
+Turn = 29.
+  012345
+0 ttrrrr
+1 ttrrrt
+2 tr..rt
+3 tttttt
+4 tttttt
+
+Turn = 30.
+  012345
+0 tttrrr
+1 ttt.rr
+2 rr.rrr
+3 tttttt
+4 tttttt
+
+Turn = 31.
+  012345
+0 ttrrrr
+1 ttt.rr
+2 rr.rrr
+3 tttrtt
+4 tttttt
+
+Turn = 32.
+  012345
+0 ttrrrr
+1 trt.rr
+2 rt.rrr
+3 rttrtr
+4 tttttt
+
+Turn = 33.
+  012345
+0 ttrrrr
+1 trrrr.
+2 ttr.rr
+3 tttttr
+4 tttttt
+
+Turn = 34.
+  012345
+0 ttrrrr
+1 ttrr..
+2 tttrrt
+3 tttttt
+4 tttttt
+
+Turn = 35.
+  012345
+0 trrrrr
+1 ttrr..
+2 tttrrr
+3 tttrrt
+4 tttttt
+
+Turn = 36.
+  012345
+0 tttrr.
+1 ttrrr.
+2 ttttrr
+3 ttttrt
+4 tttttt
+
+Turn = 37.
+  012345
+0 tttrr.
+1 ttttr.
+2 ttttrr
+3 tttttt
+4 tttttt
+
+Turn = 38.
+  012345
+0 ttrrr.
+1 tttt.r
+2 tttttr
+3 tttttt
+4 tttttt
+
+Turn = 39.
+  012345
+0 tttrr.
+1 tttt.r
+2 tttttr
+3 tttttt
+4 tttttt
+
+Turn = 40.
+  012345
+0 tttrr.
+1 tttt.r
+2 tttttt
+3 tttttt
+4 tttttt
+
+*** Darwin 9x3 ***
+Turn = 0.
+  012
+0 .th
+1 h.r
+2 .h.
+3 ...
+4 hr.
+5 .rr
+6 .rt
+7 ht.
+8 r.h
+
+Turn = 2.
+  012
+0 htt
+1 ..r
+2 ..r
+3 ..r
+4 rr.
+5 r..
+6 r.t
+7 tt.
+8 .rr
+
+Turn = 4.
+  012
+0 htt
+1 ..t
+2 rr.
+3 .rr
+4 ...
+5 r..
+6 .rt
+7 tt.
+8 .tt
+
+Turn = 6.
+  012
+0 rtt
+1 r.t
+2 r..
+3 r..
+4 ...
+5 ..r
+6 rtr
+7 tt.
+8 .tt
+
+Turn = 8.
+  012
+0 rtt
+1 .rt
+2 r..
+3 ...
+4 ...
+5 r.r
+6 rrr
+7 rr.
+8 .tt
+
+Turn = 10.
+  012
+0 rrr
+1 rrr
+2 ...
+3 ...
+4 .r.
+5 rr.
+6 rr.
+7 rr.
+8 .tt
+
+Turn = 12.
+  012
+0 rrr
+1 rr.
+2 .rr
+3 ...
+4 ...
+5 rr.
+6 r.r
+7 r..
+8 rrt
+
+Turn = 14.
+  012
+0 rrr
+1 ..r
+2 rr.
+3 r..
+4 ..r
+5 r.r
+6 rr.
+7 ...
+8 rrt
+
+Turn = 16.
+  012
+0 .rr
+1 ..r
+2 rr.
+3 r..
+4 .rr
+5 .rr
+6 r..
+7 .r.
+8 rtt
+
+Turn = 18.
+  012
+0 rrr
+1 r..
+2 ..r
+3 .rr
+4 rr.
+5 r..
+6 rr.
+7 .r.
+8 r.t
+
+Turn = 20.
+  012
+0 rrr
+1 r.r
+2 .rr
+3 r..
+4 r..
+5 r.r
+6 r..
+7 r..
+8 .rt
+
+Turn = 22.
+  012
+0 rrr
+1 rrr
+2 .rr
+3 r..
+4 ...
+5 rr.
+6 ..r
+7 r.r
+8 ..r
+
+Turn = 24.
+  012
+0 rrr
+1 rrr
+2 rr.
+3 rrr
+4 ...
+5 r..
+6 ..r
+7 r..
+8 ..r
+
+Turn = 26.
+  012
+0 rrr
+1 rrr
+2 r.r
+3 rr.
+4 r..
+5 ..r
+6 r..
+7 ...
+8 r.r
+
+Turn = 28.
+  012
+0 rrr
+1 rrr
+2 rr.
+3 r.r
+4 r.r
+5 ...
+6 ...
+7 ..r
+8 r.r
+
+Turn = 30.
+  012
+0 rrr
+1 rrr
+2 rr.
+3 rrr
+4 r..
+5 ...
+6 ...
+7 .r.
+8 .rr
+
+Turn = 32.
+  012
+0 rrr
+1 rrr
+2 rrr
+3 r..
+4 .r.
+5 ...
+6 r..
+7 r..
+8 .rr
+
+Turn = 34.
+  012
+0 rrr
+1 rrr
+2 rrr
+3 r..
+4 ...
+5 ...
+6 rr.
+7 ...
+8 rrr
+
+Turn = 36.
+  012
+0 rrr
+1 rrr
+2 r.r
+3 r..
+4 rr.
+5 ...
+6 ...
+7 .r.
+8 rrr
+
+Turn = 38.
+  012
+0 rrr
+1 rr.
+2 r..
+3 rrr
+4 .r.
+5 ...
+6 .r.
+7 rrr
+8 ..r
+
+Turn = 40.
+  012
+0 rrr
+1 .r.
+2 rr.
+3 .rr
+4 r..
+5 r.r
+6 .rr
+7 r.r
+8 ...
+
+Turn = 42.
+  012
+0 r..
+1 rrr
+2 .rr
+3 r.r
+4 .r.
+5 rr.
+6 r.r
+7 ...
+8 rr.
+
+Turn = 44.
+  012
+0 r..
+1 r.r
+2 rrr
+3 ..r
+4 rrr
+5 r.r
+6 r..
+7 r..
+8 r..
+
+Turn = 46.
+  012
+0 r..
+1 .rr
+2 ..r
+3 rrr
+4 rrr
+5 rr.
+6 r..
+7 r..
+8 r..
+
+Turn = 48.
+  012
+0 rr.
+1 r..
+2 .r.
+3 rr.
+4 rrr
+5 rr.
+6 .rr
+7 .r.
+8 ..r
+
+Turn = 50.
+  012
+0 rr.
+1 r..
+2 r..
+3 rr.
+4 ..r
+5 rr.
+6 rrr
+7 r.r
+8 ..r
+
+Turn = 52.
+  012
+0 r.r
+1 r..
+2 rr.
+3 ..r
+4 ...
+5 rrr
+6 .rr
+7 r.r
+8 r.r
+
+Turn = 54.
+  012
+0 .rr
+1 r..
+2 r.r
+3 .r.
+4 ..r
+5 .r.
+6 rrr
+7 rr.
+8 rr.
+
+Turn = 56.
+  012
+0 rrr
+1 .rr
+2 ...
+3 ..r
+4 ..r
+5 r.r
+6 rr.
+7 rrr
+8 r..
+
+Turn = 58.
+  012
+0 rrr
+1 r.r
+2 ..r
+3 ..r
+4 ...
+5 rr.
+6 rrr
+7 r.r
+8 r..
+
+Turn = 60.
+  012
+0 rrr
+1 ..r
+2 r.r
+3 .r.
+4 .rr
+5 rr.
+6 r..
+7 r..
+8 .rr
+
+Turn = 62.
+  012
+0 rr.
+1 .rr
+2 .rr
+3 rr.
+4 rr.
+5 r..
+6 .rr
+7 ...
+8 rr.
+
+Turn = 64.
+  012
+0 rr.
+1 r.r
+2 rrr
+3 r.r
+4 rr.
+5 r.r
+6 .r.
+7 r..
+8 ...
+
+Turn = 66.
+  012
+0 rrr
+1 r.r
+2 rr.
+3 r.r
+4 .rr
+5 .rr
+6 r..
+7 .r.
+8 ...
+
+Turn = 68.
+  012
+0 rrr
+1 rr.
+2 r.r
+3 .r.
+4 rr.
+5 .rr
+6 .rr
+7 ..r
+8 ...
+
+Turn = 70.
+  012
+0 rrr
+1 rr.
+2 rr.
+3 rr.
+4 .r.
+5 .rr
+6 rr.
+7 .r.
+8 ...
+
+Turn = 72.
+  012
+0 rrr
+1 rrr
+2 rr.
+3 ..r
+4 rrr
+5 r..
+6 .r.
+7 ...
+8 r..
+
+Turn = 74.
+  012
+0 rrr
+1 rrr
+2 rrr
+3 r.r
+4 rr.
+5 r..
+6 ...
+7 ...
+8 .r.
+
+Turn = 76.
+  012
+0 rrr
+1 rrr
+2 rrr
+3 rr.
+4 r..
+5 .rr
+6 ...
+7 ...
+8 ..r
+
+Turn = 78.
+  012
+0 rrr
+1 rrr
+2 rrr
+3 r.r
+4 ..r
+5 ...
+6 .rr
+7 ..r
+8 ...
+
+Turn = 80.
+  012
+0 rrr
+1 rr.
+2 rrr
+3 ..r
+4 .rr
+5 r..
+6 ..r
+7 ..r
+8 .r.
+
+Turn = 82.
+  012
+0 rrr
+1 rr.
+2 r.r
+3 .rr
+4 r..
+5 ..r
+6 .r.
+7 r..
+8 .rr
+
+Turn = 84.
+  012
+0 r..
+1 .rr
+2 rrr
+3 r..
+4 rrr
+5 ..r
+6 ...
+7 .r.
+8 rrr
+
+Turn = 86.
+  012
+0 ...
+1 rr.
+2 r.r
+3 rr.
+4 r.r
+5 r..
+6 .rr
+7 r.r
+8 r.r
+
+Turn = 88.
+  012
+0 r..
+1 ...
+2 r..
+3 rr.
+4 ..r
+5 rrr
+6 r.r
+7 rrr
+8 .rr
+
+Turn = 90.
+  012
+0 r..
+1 r..
+2 ...
+3 ...
+4 rr.
+5 rrr
+6 rrr
+7 .rr
+8 rrr
+
+Turn = 92.
+  012
+0 .r.
+1 ..r
+2 ...
+3 ...
+4 rrr
+5 rr.
+6 rr.
+7 rrr
+8 rrr
+
+Turn = 94.
+  012
+0 ..r
+1 ...
+2 ..r
+3 .rr
+4 r..
+5 rr.
+6 rr.
+7 rrr
+8 rrr
+
+Turn = 96.
+  012
+0 ...
+1 .rr
+2 r.r
+3 rr.
+4 r..
+5 rr.
+6 ..r
+7 r.r
+8 rrr
+
+Turn = 98.
+  012
+0 rr.
+1 .rr
+2 rr.
+3 rr.
+4 ...
+5 r..
+6 rr.
+7 .rr
+8 r.r
+
+Turn = 100.
+  012
+0 rrr
+1 rr.
+2 r.r
+3 r..
+4 r..
+5 rrr
+6 .r.
+7 ..r
+8 r..
+
+Turn = 102.
+  012
+0 rrr
+1 rr.
+2 .r.
+3 r.r
+4 rrr
+5 ..r
+6 r.r
+7 ...
+8 r..
+
+*** Darwin 1x10 ***
+Turn = 0.
+  0123456789
+0 htttt.httr
+
+Turn = 16.
+  0123456789
+0 ttttt.tttt
+
+*** Darwin 3x5 ***
+Turn = 0.
+  01234
+0 rrtth
+1 hfffr
+2 fttff
+
+Turn = 7.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 14.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 21.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 28.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 35.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 42.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 49.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 56.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 63.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 70.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 77.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 84.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+Turn = 91.
+  01234
+0 ttttt
+1 ttttt
+2 ttttt
+
+*** Darwin 5x4 ***
+Turn = 0.
+  0123
+0 tft.
+1 rhfh
+2 rthr
+3 rfft
+4 .rht
+
+Turn = 12.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 24.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 36.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 48.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 60.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 72.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 84.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 96.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 108.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 120.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 132.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+Turn = 144.
+  0123
+0 tttt
+1 ttt.
+2 tttt
+3 tttt
+4 .ttt
+
+*** Darwin 3x9 ***
+Turn = 0.
+  012345678
+0 .httfhrht
+1 fr.hthffh
+2 fftf.thrh
+
+Turn = 4.
+  012345678
+0 rrrtttrtt
+1 f..ttrrft
+2 frtt.rrtt
+
+Turn = 8.
+  012345678
+0 r.ttttttt
+1 fr.ttrttt
+2 rrtt.rttt
+
+Turn = 12.
+  012345678
+0 rtttttttt
+1 .r.tttttt
+2 rttrr.ttt
+
+Turn = 16.
+  012345678
+0 rrrtttttt
+1 r..tttttt
+2 rrttt.ttt
+
+Turn = 20.
+  012345678
+0 r.rrrtttt
+1 rrrrttttt
+2 .trrt.ttt
+
+Turn = 24.
+  012345678
+0 .rrrtrttt
+1 rrrrrtttt
+2 .rrtt.ttt
+
+*** Darwin 6x2 ***
+Turn = 0.
+  01
+0 hf
+1 fh
+2 fr
+3 ff
+4 rt
+5 tr
+
+Turn = 4.
+  01
+0 hf
+1 fh
+2 fr
+3 fr
+4 rr
+5 rr
+
+Turn = 8.
+  01
+0 hf
+1 rr
+2 fr
+3 rr
+4 rr
+5 rr
+
+Turn = 12.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 16.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 20.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 24.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 28.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 32.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 36.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 40.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 44.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 48.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 52.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 56.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 60.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 64.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 68.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 72.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 76.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 80.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 84.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 88.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 92.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 96.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 100.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 104.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 108.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 112.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 116.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+Turn = 120.
+  01
+0 rr
+1 rr
+2 rr
+3 rr
+4 rr
+5 rr
+
+*** Darwin 3x6 ***
+Turn = 0.
+  012345
+0 thhftf
+1 .trth.
+2 rrft..
+
+Turn = 1.
+  012345
+0 tthftt
+1 rrrr..
+2 .rfrh.
+
+Turn = 2.
+  012345
+0 rrhftt
+1 rrrr..
+2 .rfrr.
+
+Turn = 3.
+  012345
+0 rrrftt
+1 rrrr..
+2 .rrrr.
+
+Turn = 4.
+  012345
+0 rrrrtt
+1 rrrr..
+2 .rrrr.
+
+Turn = 5.
+  012345
+0 rrrrrt
+1 .rrr..
+2 rrrrr.
+
+Turn = 6.
+  012345
+0 rrrr.t
+1 .rrrr.
+2 rrrrr.
+
+Turn = 7.
+  012345
+0 rrrr.t
+1 .rrrr.
+2 rrrrr.
+
+Turn = 8.
+  012345
+0 rrrr.t
+1 r.rr.r
+2 rrrrr.
+
+Turn = 9.
+  012345
+0 rr.r.t
+1 rrrr.r
+2 rrrrr.
+
+Turn = 10.
+  012345
+0 rrr..t
+1 rrr.r.
+2 rrrrrr
+
+Turn = 11.
+  012345
+0 rrr..t
+1 rrr..r
+2 rrrrrr
+
+Turn = 12.
+  012345
+0 rrr..t
+1 rrrr.r
+2 rrr.rr
+
+Turn = 13.
+  012345
+0 rrrr.r
+1 rrr..r
+2 rrr.rr
+
+Turn = 14.
+  012345
+0 rrrrrr
+1 rrr...
+2 rrr.rr
+
+Turn = 15.
+  012345
+0 rrrrrr
+1 rrr...
+2 rr.rrr
+
+Turn = 16.
+  012345
+0 rrr..r
+1 rr.rr.
+2 rrrrrr
+
+Turn = 17.
+  012345
+0 rr.r.r
+1 rr.rrr
+2 rrrrr.
+
+Turn = 18.
+  012345
+0 rrr.rr
+1 r..rrr
+2 rrrrr.
+
+Turn = 19.
+  012345
+0 rr.rrr
+1 .r.rrr
+2 rrrrr.
+
+Turn = 20.
+  012345
+0 rr.rrr
+1 ..rrrr
+2 rrrrr.
+
+Turn = 21.
+  012345
+0 ...rrr
+1 rrrrrr
+2 rrrrr.
+
+Turn = 22.
+  012345
+0 ...rrr
+1 rrrrrr
+2 rrrrr.
+
+Turn = 23.
+  012345
+0 ...rrr
+1 rrrrrr
+2 rrrr.r
+
+Turn = 24.
+  012345
+0 ...rrr
+1 rrrrrr
+2 rrr.rr
+
+Turn = 25.
+  012345
+0 ...rrr
+1 rrr.rr
+2 rrrrrr
+
+Turn = 26.
+  012345
+0 .rr.rr
+1 r.r.rr
+2 rrrrrr
+
+Turn = 27.
+  012345
+0 .rrr.r
+1 rrr.rr
+2 rr.rrr
+
+Turn = 28.
+  012345
+0 rrrr.r
+1 r.rr.r
+2 rr.rrr
+
+Turn = 29.
+  012345
+0 rrrr.r
+1 rrr.rr
+2 rrr.r.
+
+Turn = 30.
+  012345
+0 rrr.rr
+1 rrrrrr
+2 rrr...
+
+Turn = 31.
+  012345
+0 rrrrrr
+1 rrr.rr
+2 rrr...
+
+Turn = 32.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rrr..r
+
+Turn = 33.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rrr..r
+
+Turn = 34.
+  012345
+0 rrrrrr
+1 rrr...
+2 rrrrr.
+
+Turn = 35.
+  012345
+0 rrrrr.
+1 rrr..r
+2 rrrrr.
+
+Turn = 36.
+  012345
+0 rrrrr.
+1 rrr...
+2 rrrrrr
+
+Turn = 37.
+  012345
+0 rrrr..
+1 rrrr..
+2 rrrrrr
+
+Turn = 38.
+  012345
+0 rrrr..
+1 rrrrr.
+2 rrrr.r
+
+Turn = 39.
+  012345
+0 rrrrr.
+1 rrrr..
+2 rrrr.r
+
+Turn = 40.
+  012345
+0 rrrrr.
+1 rrrr..
+2 rrrr.r
+
+Turn = 41.
+  012345
+0 rrrrr.
+1 rrrr..
+2 rrrr.r
+
+Turn = 42.
+  012345
+0 rrrr..
+1 rrrrr.
+2 rrr.rr
+
+Turn = 43.
+  012345
+0 rrrr..
+1 rrrrrr
+2 rrr.r.
+
+Turn = 44.
+  012345
+0 rrr.rr
+1 rrrrr.
+2 rrrr..
+
+Turn = 45.
+  012345
+0 rr.rrr
+1 rrrrr.
+2 rrrr..
+
+Turn = 46.
+  012345
+0 rr.rrr
+1 rrrr.r
+2 rrr.r.
+
+Turn = 47.
+  012345
+0 rrrrrr
+1 rrr..r
+2 rrr..r
+
+Turn = 48.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rr.r.r
+
+Turn = 49.
+  012345
+0 rrrrr.
+1 rr...r
+2 rrrrrr
+
+Turn = 50.
+  012345
+0 rr.rr.
+1 rrrr.r
+2 rrr.rr
+
+Turn = 51.
+  012345
+0 rr.rr.
+1 rrrrrr
+2 rrr.r.
+
+Turn = 52.
+  012345
+0 rr.rrr
+1 rrrrr.
+2 rrr.r.
+
+Turn = 53.
+  012345
+0 rr.rrr
+1 rrrrr.
+2 rrr..r
+
+Turn = 54.
+  012345
+0 rrr.rr
+1 rrrr.r
+2 rrr..r
+
+Turn = 55.
+  012345
+0 rrrrrr
+1 rrr..r
+2 rrr..r
+
+Turn = 56.
+  012345
+0 rrrrrr
+1 rrr..r
+2 rrr.r.
+
+Turn = 57.
+  012345
+0 rrrrrr
+1 rrr..r
+2 rrrr..
+
+Turn = 58.
+  012345
+0 rrrrrr
+1 rrr...
+2 rrrr.r
+
+Turn = 59.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rrr..r
+
+Turn = 60.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rrr.r.
+
+Turn = 61.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rrrr..
+
+Turn = 62.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rrrr..
+
+Turn = 63.
+  012345
+0 rrrr.r
+1 rrrr..
+2 rrrrr.
+
+Turn = 64.
+  012345
+0 rrrr.r
+1 rrrr..
+2 rrrrr.
+
+Turn = 65.
+  012345
+0 rrrr..
+1 rrrr.r
+2 rrrrr.
+
+Turn = 66.
+  012345
+0 rrrr..
+1 rrrr..
+2 rrrrrr
+
+Turn = 67.
+  012345
+0 rrr.r.
+1 rrrr..
+2 rrrrrr
+
+Turn = 68.
+  012345
+0 rrr..r
+1 rrrrr.
+2 rrrrr.
+
+Turn = 69.
+  012345
+0 rrr.rr
+1 rrrr..
+2 rrrrr.
+
+Turn = 70.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rrrr..
+
+Turn = 71.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rrr..r
+
+Turn = 72.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rrr..r
+
+Turn = 73.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rr.rr.
+
+Turn = 74.
+  012345
+0 rrrrr.
+1 rr.rr.
+2 rr.rrr
+
+Turn = 75.
+  012345
+0 rrrr.r
+1 rr.rr.
+2 rr.rrr
+
+Turn = 76.
+  012345
+0 rrrrrr
+1 rr.r..
+2 rrr.rr
+
+Turn = 77.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rrr..r
+
+Turn = 78.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rrr..r
+
+Turn = 79.
+  012345
+0 rrrr..
+1 rrrrrr
+2 rr.r.r
+
+Turn = 80.
+  012345
+0 rrrrrr
+1 rrrr..
+2 r.r.rr
+
+Turn = 81.
+  012345
+0 rrrrrr
+1 rrr.r.
+2 r..rrr
+
+Turn = 82.
+  012345
+0 rrrrrr
+1 rr.rrr
+2 r..rr.
+
+Turn = 83.
+  012345
+0 rrrrrr
+1 r..rrr
+2 rr.rr.
+
+Turn = 84.
+  012345
+0 rrrrrr
+1 r.rrr.
+2 rr.rr.
+
+Turn = 85.
+  012345
+0 rrrrrr
+1 rr.r..
+2 rrrrr.
+
+Turn = 86.
+  012345
+0 rrrrrr
+1 rr.rr.
+2 rrrr..
+
+Turn = 87.
+  012345
+0 rrrrr.
+1 rrrrrr
+2 rrr...
+
+Turn = 88.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rrr..r
+
+Turn = 89.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rr.r.r
+
+Turn = 90.
+  012345
+0 rrrrrr
+1 rrrr..
+2 rr..rr
+
+Turn = 91.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rr..rr
+
+Turn = 92.
+  012345
+0 rrrrr.
+1 rrr.rr
+2 rr..rr
+
+Turn = 93.
+  012345
+0 rrrr..
+1 rr.rrr
+2 rrrr.r
+
+Turn = 94.
+  012345
+0 rrrr..
+1 rr.rrr
+2 rrrr.r
+
+Turn = 95.
+  012345
+0 rrrrr.
+1 rrrr.r
+2 rrr..r
+
+Turn = 96.
+  012345
+0 rrrrr.
+1 rrrr.r
+2 rrr.r.
+
+Turn = 97.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rr.rr.
+
+Turn = 98.
+  012345
+0 rrrrr.
+1 rrrrr.
+2 rr.rr.
+
+Turn = 99.
+  012345
+0 rrrrr.
+1 rr.rr.
+2 rrrr.r
+
+*** Darwin 3x8 ***
+Turn = 0.
+  01234567
+0 hfhtfhff
+1 rtrtthff
+2 .ftt.hfh
+
+Turn = 9.
+  01234567
+0 r.rttttt
+1 rrrrtttt
+2 rrrr.ttt
+
+Turn = 18.
+  01234567
+0 rrrrrttt
+1 rrrrtttt
+2 rr..tttt
+
+Turn = 27.
+  01234567
+0 rrrrrttt
+1 rrr.rrtt
+2 .rrrtttt
+
+Turn = 36.
+  01234567
+0 rrrrrttt
+1 rr.rrrtt
+2 r.rrrttt
+
+Turn = 45.
+  01234567
+0 rrrr.ttt
+1 r.rrrrrt
+2 rrrrrrrt
+
+Turn = 54.
+  01234567
+0 rrrrrrrt
+1 rrrrrr.t
+2 rrr.rrrt
+
+Turn = 63.
+  01234567
+0 rrrr.rtt
+1 rrr.rrtr
+2 rrrrrrrr
+
+Turn = 72.
+  01234567
+0 rrrrrrrr
+1 rrrrrrr.
+2 rrrrrr.r
+
+Turn = 81.
+  01234567
+0 rrrrrrrr
+1 rrrrrrr.
+2 rrrr.rrr
+
+Turn = 90.
+  01234567
+0 rrrr.rrr
+1 rrrrr.rr
+2 rrrrrrrr
+
+Turn = 99.
+  01234567
+0 rrrrrrrr
+1 rrrrrrrr
+2 r.rr.rrr
+
+Turn = 108.
+  01234567
+0 rrrrrr..
+1 rrrrrrrr
+2 rrrrrrrr
+
+Turn = 117.
+  01234567
+0 rrrrrrrr
+1 rrrrrrrr
+2 rrrrrr..
+
+Turn = 126.
+  01234567
+0 rrrrrrr.
+1 rrrrrr.r
+2 rrrrrrrr
+
+Turn = 135.
+  01234567
+0 rrrr.rrr
+1 rrrrrrrr
+2 rrrrrr.r
+
+Turn = 144.
+  01234567
+0 rrrrrrrr
+1 rrrrrr..
+2 rrrrrrrr
+
+Turn = 153.
+  01234567
+0 rrrrrrrr
+1 rrrrrrrr
+2 rrrr..rr
+
+*** Darwin 10x6 ***
+Turn = 0.
+  012345
+0 f.....
+1 .....t
+2 ..r...
+3 ..hr..
+4 r...r.
+5 ......
+6 frr...
+7 .h.f..
+8 hft..t
+9 ...r..
+
+Turn = 2.
+  012345
+0 f.....
+1 .....t
+2 r...r.
+3 .....r
+4 ......
+5 ..h...
+6 rr..r.
+7 h.rf..
+8 hfr..t
+9 .....r
+
+Turn = 4.
+  012345
+0 r.....
+1 r....t
+2 .....t
+3 ......
+4 .....r
+5 ......
+6 r.h...
+7 rrrf..
+8 rr.rrr
+9 .....r
+
+Turn = 6.
+  012345
+0 r.....
+1 r....t
+2 .....t
+3 ......
+4 ......
+5 ......
+6 .rr..r
+7 rrrrrr
+8 r..r..
+9 .r..r.
+
+Turn = 8.
+  012345
+0 .r....
+1 .....t
+2 .....t
+3 r.....
+4 .r....
+5 ...r..
+6 r...r.
+7 .rr.rr
+8 rr....
+9 r.r..r
+
+Turn = 10.
+  012345
+0 ...r..
+1 .....t
+2 .r...t
+3 ...r..
+4 ......
+5 r.....
+6 r.r...
+7 rrr...
+8 r...rr
+9 r...rr
+
+Turn = 12.
+  012345
+0 .r...r
+1 ...r.t
+2 .....t
+3 ......
+4 ......
+5 .rr...
+6 .r....
+7 rr....
+8 r.rr.r
+9 r...rr
+
+Turn = 14.
+  012345
+0 ..rr.r
+1 .....t
+2 .....t
+3 ..r...
+4 ......
+5 .r....
+6 r.r...
+7 ..r..r
+8 rr.r..
+9 .rrr..
+
+Turn = 16.
+  012345
+0 ....rr
+1 ..r..r
+2 ..r..t
+3 ......
+4 r.....
+5 ...r.r
+6 ....r.
+7 .r.rr.
+8 rr....
+9 r.r...
+
+Turn = 18.
+  012345
+0 ....rr
+1 ...rr.
+2 r....t
+3 r....r
+4 ......
+5 .r.r.r
+6 .....r
+7 .r...r
+8 r.r...
+9 .r....
+
+Turn = 20.
+  012345
+0 ..rrr.
+1 ......
+2 .....t
+3 rrrrtt
+4 ......
+5 .r...r
+6 r.r..r
+7 ......
+8 ......
+9 ..r..r
+
+Turn = 22.
+  012345
+0 r..r..
+1 .r.rr.
+2 .....t
+3 .r..tt
+4 r.r...
+5 r.rr..
+6 ......
+7 ......
+8 .....r
+9 ....rr
+
+Turn = 24.
+  012345
+0 rrr...
+1 .r..r.
+2 ....tt
+3 r...tt
+4 .rrr..
+5 .r....
+6 ......
+7 ......
+8 ....r.
+9 ....rr
+
+Turn = 26.
+  012345
+0 rrr...
+1 r.r..r
+2 ..rrtt
+3 ....tt
+4 r.....
+5 ......
+6 ......
+7 .r....
+8 ..r...
+9 ..r.r.
+
+Turn = 28.
+  012345
+0 r.r...
+1 rrr.rr
+2 ...trt
+3 ....tt
+4 ......
+5 ......
+6 r.....
+7 ..r...
+8 .r....
+9 r.r...
+
+Turn = 30.
+  012345
+0 r.r.rr
+1 r...r.
+2 ...t.t
+3 .r..tt
+4 ......
+5 ..r.r.
+6 ......
+7 ......
+8 r..r..
+9 rr....
+
+Turn = 32.
+  012345
+0 r..rrr
+1 ......
+2 r..ttt
+3 ..r.tt
+4 ......
+5 .r....
+6 ......
+7 ....r.
+8 r....r
+9 rr....
+
+Turn = 34.
+  012345
+0 r.r..r
+1 ..rr..
+2 ...rtt
+3 ....tt
+4 r.....
+5 ......
+6 r.....
+7 .r...r
+8 ......
+9 r.r.r.
+
+Turn = 36.
+  012345
+0 .rr...
+1 .r..rr
+2 ...rrr
+3 ....tt
+4 ......
+5 r....r
+6 .r....
+7 ......
+8 ......
+9 rr.rr.
+
+Turn = 38.
+  012345
+0 r...r.
+1 r.r.r.
+2 ....tr
+3 ....tr
+4 ...r.r
+5 ..r...
+6 ...r..
+7 ...r..
+8 r.....
+9 ..rr..
+
+Turn = 40.
+  012345
+0 .....r
+1 r.r...
+2 ....tt
+3 r.r.tr
+4 .....r
+5 ...r..
+6 r.rr.r
+7 ......
+8 ......
+9 ..rr..
+
+Turn = 42.
+  012345
+0 .....r
+1 r.....
+2 ....tt
+3 r...tt
+4 r....t
+5 r.r..r
+6 ....r.
+7 .....r
+8 ..r...
+9 ..r..r
+
+Turn = 44.
+  012345
+0 r....r
+1 ......
+2 ....tt
+3 r...tt
+4 ..r..t
+5 .....t
+6 r.....
+7 ..r...
+8 ...rrr
+9 ....rr
+
+Turn = 46.
+  012345
+0 .r...r
+1 ......
+2 ....tt
+3 ....tt
+4 ....rt
+5 r....t
+6 ......
+7 ...r..
+8 r..rrr
+9 ..r..r
+
+Turn = 48.
+  012345
+0 ...rr.
+1 ......
+2 ....tt
+3 ....tt
+4 ....tt
+5 ...r.t
+6 ....r.
+7 r....r
+8 .r...r
+9 r..r..
+
+Turn = 50.
+  012345
+0 ...r..
+1 ....t.
+2 ....tt
+3 ...rtt
+4 ....rt
+5 ....rt
+6 .....r
+7 .....r
+8 r.....
+9 rr...r
+
+Turn = 52.
+  012345
+0 .r....
+1 ...rt.
+2 ....tt
+3 ....rt
+4 ..r.rt
+5 .....t
+6 .....t
+7 .....t
+8 r.r..r
+9 ..r...
+
+Turn = 54.
+  012345
+0 r..r..
+1 ....t.
+2 ....tt
+3 ...r.t
+4 r...rr
+5 .....t
+6 r....t
+7 .....r
+8 ....rr
+9 ....r.
+
+Turn = 56.
+  012345
+0 r....r
+1 ....t.
+2 ....tt
+3 rr...t
+4 r...rr
+5 .....t
+6 .....t
+7 ...r.r
+8 ......
+9 ....rr
+
+Turn = 58.
+  012345
+0 ......
+1 r...tr
+2 r...tt
+3 r....t
+4 r...rr
+5 .....r
+6 ....r.
+7 .r...r
+8 ......
+9 ....rr
+
+Turn = 60.
+  012345
+0 ......
+1 ..r.tt
+2 r...tt
+3 r....r
+4 ....rr
+5 .....r
+6 r.r..r
+7 r.....
+8 ......
+9 ....rr
+
+*** Darwin 6x7 ***
+Turn = 0.
+  0123456
+0 ...hth.
+1 ft.f...
+2 ...ff.f
+3 h..t..t
+4 h.rf..h
+5 f.fh..f
+
+Turn = 12.
+  0123456
+0 ..r.rrr
+1 ttttrr.
+2 .r.....
+3 r..r...
+4 r..r..r
+5 r.r..rr
+
+Turn = 24.
+  0123456
+0 tttrrr.
+1 ttrr...
+2 tt.r...
+3 rtt.r..
+4 ..t...r
+5 ......r
+
+*** Darwin 9x3 ***
+Turn = 0.
+  012
+0 hrh
+1 tft
+2 tft
+3 h.h
+4 .rh
+5 hhf
+6 hfh
+7 frr
+8 tht
+
+Turn = 8.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 rtt
+5 trr
+6 rrr
+7 rr.
+8 ttt
+
+Turn = 16.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 24.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 32.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 40.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 48.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 56.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 64.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 72.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 80.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 88.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 96.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 104.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 112.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+Turn = 120.
+  012
+0 ttt
+1 ttt
+2 .tt
+3 ttt
+4 ttt
+5 ttt
+6 ttt
+7 t.t
+8 ttt
+
+*** Darwin 4x6 ***
+Turn = 0.
+  012345
+0 f....f
+1 .tthht
+2 rhh.tt
+3 rffrft
+
+Turn = 16.
+  012345
+0 ....rt
+1 rttttt
+2 ttt.tt
+3 .ttttt
+
+*** Darwin 7x7 ***
+Turn = 0.
+  0123456
+0 t.t.fff
+1 .tttrtr
+2 r.rt.rr
+3 hr.fhrr
+4 r...rh.
+5 rt.tfr.
+6 .hfhf..
+
+Turn = 6.
+  0123456
+0 t.t.ttf
+1 .tttttt
+2 ttrrttt
+3 t..tttt
+4 r...t..
+5 rrrtt..
+6 .r.trr.
+
+Turn = 12.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 18.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 24.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 30.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 36.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 42.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 48.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 54.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 60.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 66.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 72.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 78.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 84.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 90.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 96.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 102.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 108.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 114.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+Turn = 120.
+  0123456
+0 t.t.ttt
+1 .tttttt
+2 ttttttt
+3 t.ttttt
+4 t...t..
+5 t..tt..
+6 tt.ttt.
+
+*** Darwin 5x10 ***
+Turn = 0.
+  0123456789
+0 ...t...hf.
+1 ....tf....
+2 .r........
+3 ...r......
+4 ....h...f.
+
+Turn = 11.
+  0123456789
+0 ....tt..f.
+1 ...ttt....
+2 ....t.....
+3 ..........
+4 .......hf.
+
+Turn = 22.
+  0123456789
+0 ....tt..f.
+1 ...ttt....
+2 ....t.....
+3 ..........
+4 .......hf.
+
+Turn = 33.
+  0123456789
+0 ....tt..f.
+1 ...ttt....
+2 ....t.....
+3 ..........
+4 .......hf.
+
+*** Darwin 1x3 ***
+Turn = 0.
+  012
+0 trt
+
+Turn = 12.
+  012
+0 rrt
+
+Turn = 24.
+  012
+0 rrr
+
+Turn = 36.
+  012
+0 rrr
+
+Turn = 48.
+  012
+0 rrr
+
+Turn = 60.
+  012
+0 rrr
+
+Turn = 72.
+  012
+0 rrr
+
+Turn = 84.
+  012
+0 rrr
+
+Turn = 96.
+  012
+0 rrr
+
+Turn = 108.
+  012
+0 rrr
+
+Turn = 120.
+  012
+0 rrr
+
+Turn = 132.
+  012
+0 rrr
+
+Turn = 144.
+  012
+0 rrr
+
+Turn = 156.
+  012
+0 rrr
+
+Turn = 168.
+  012
+0 rrr
+
+*** Darwin 6x9 ***
+Turn = 0.
+  012345678
+0 tfrrr.fr.
+1 .rhfthtfh
+2 rtrthfrtf
+3 rrrtftftf
+4 ftttttt.r
+5 rft.ff.rf
+
+Turn = 15.
+  012345678
+0 r..rrrrrr
+1 rrrrrr.rr
+2 rrrrtr.rr
+3 tttttt.rr
+4 tttttttrt
+5 ttt.ttttt
+
+Turn = 30.
+  012345678
+0 rrrrrrr.r
+1 rrrrr.rrr
+2 r.rrrrrrr
+3 rr.rrrrrr
+4 rrrrrrttt
+5 ..rttrttt
+
+Turn = 45.
+  012345678
+0 rrrrrrrrr
+1 rrrrrrrrr
+2 rrrrrrrrr
+3 rrrrrrr..
+4 rrrrrrrr.
+5 .rrr.rr.r
+
+Turn = 60.
+  012345678
+0 rrrrrrrrr
+1 rrrrrrrrr
+2 rrrrrr..r
+3 rrrrrr.r.
+4 rrrrr.rrr
+5 rrrrrr.rr
+
+Turn = 75.
+  012345678
+0 rrrr.rrrr
+1 rrrrrr.r.
+2 rrrrrrr.r
+3 rrrrrrr.r
+4 rrrrrrrrr
+5 rrrrrr.rr
+
+Turn = 90.
+  012345678
+0 rrrrrrrrr
+1 rrrrrrr.r
+2 rrrrrrr.r
+3 rrrrrrrrr
+4 rr.rrrr..
+5 rrrrrr.rr
+
+Turn = 105.
+  012345678
+0 rrrrrrrr.
+1 rrrrrr...
+2 rrrrrrrrr
+3 rrrrrr.rr
+4 rrrrrr.rr
+5 rrrrrrrrr
+
+Turn = 120.
+  012345678
+0 rrrrrr.r.
+1 rrrrrrr.r
+2 rrrrrr..r
+3 rrrrrrrrr
+4 rrrrrrrrr
+5 rrrrrrr.r
+
+Turn = 135.
+  012345678
+0 rrrrrrrr.
+1 rrrrrr.rr
+2 rrrrrrrr.
+3 rrrrrrrrr
+4 rrrr.rr.r
+5 rrrrrrrr.
+
+Turn = 150.
+  012345678
+0 rrrrrrrrr
+1 rrrrrrrrr
+2 rrrrrrrrr
+3 rrrrrrr..
+4 rrrrr.r.r
+5 rrrrr.r.r
+
+Turn = 165.
+  012345678
+0 rrrrrrrrr
+1 rrrrr....
+2 rrrrrrrrr
+3 rrrrrrrrr
+4 rrrrrrrrr
+5 rrrr.r.rr
+
+Turn = 180.
+  012345678
+0 rrrrrrrrr
+1 rrrrrrrr.
+2 rrrrrrrr.
+3 rrrrrr..r
+4 rrrrrrrr.
+5 rrrrrrrr.
+
+*** Darwin 3x2 ***
+Turn = 0.
+  01
+0 th
+1 fh
+2 hf
+
+Turn = 20.
+  01
+0 tt
+1 tt
+2 tt
+
+*** Darwin 7x1 ***
+Turn = 0.
+  0
+0 r
+1 h
+2 h
+3 t
+4 t
+5 f
+6 f
+
+Turn = 7.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 14.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 21.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 28.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 35.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 42.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 49.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+Turn = 56.
+  0
+0 r
+1 r
+2 r
+3 r
+4 r
+5 r
+6 r
+
+*** Darwin 9x10 ***
+Turn = 0.
+  0123456789
+0 ...r..r...
+1 .hth.r..hf
+2 ..t.......
+3 ......f...
+4 ..........
+5 ..h....h..
+6 ..........
+7 ...r....t.
+8 f..rh.t...
+
+Turn = 2.
+  0123456789
+0 ...h.r....
+1 .ht......f
+2 ..t..rr...
+3 ......f.h.
+4 ..........
+5 h.........
+6 ...r......
+7 ....hr.tt.
+8 f.....t...
+
+Turn = 4.
+  0123456789
+0 ...h...r..
+1 .tt......f
+2 ..t.......
+3 ......r...
+4 ...r.r....
+5 h...h.r.h.
+6 ..........
+7 ......rr..
+8 f.....t.r.
+
+Turn = 6.
+  0123456789
+0 ...h.....r
+1 .tt......f
+2 ..tr......
+3 ....h.....
+4 ..........
+5 h.....r...
+6 .....rr.h.
+7 ......t..r
+8 f.....tr..
+
+Turn = 8.
+  0123456789
+0 ...r.....r
+1 .ttrh....r
+2 ..t.......
+3 ..........
+4 ..........
+5 h....r....
+6 .........r
+7 ......rr..
+8 f....rrrr.
+
+Turn = 10.
+  0123456789
+0 ..r.h...r.
+1 .trr.....r
+2 ..t.......
+3 ..........
+4 .........r
+5 h..r......
+6 .......r..
+7 .....r...r
+8 f....rr..r
+
+Turn = 12.
+  0123456789
+0 r.rrh.r..r
+1 .t........
+2 ..t......r
+3 ..........
+4 .......r..
+5 hr........
+6 .....rr...
+7 ...r.....r
+8 f........r
+
+Turn = 14.
+  0123456789
+0 r.rrrr.r.r
+1 .t........
+2 ..t....r..
+3 ..........
+4 .....rr...
+5 rr........
+6 .........r
+7 .r.......r
+8 f.........
+
+Turn = 16.
+  0123456789
+0 .....rrr.r
+1 rtrrr.....
+2 ...r.rr...
+3 .r........
+4 .........r
+5 .........r
+6 r.........
+7 r.........
+8 f.........
+
+Turn = 18.
+  0123456789
+0 ....rrrr.r
+1 .rtr..r...
+2 .r.r.....r
+3 r...r....r
+4 ..........
+5 r.........
+6 ..r.......
+7 ..........
+8 f.........
+
+Turn = 20.
+  0123456789
+0 .r.t.rr..r
+1 .rtrr....r
+2 ...r...r.r
+3 ..........
+4 r.........
+5 r...r.....
+6 ....r.....
+7 ..........
+8 f.........
+
+Turn = 22.
+  0123456789
+0 ..rrr..rrr
+1 .rrr.....r
+2 ...rr.....
+3 r.........
+4 ..r....r..
+5 ...r......
+6 ......r...
+7 ..........
+8 f.........
+
+Turn = 24.
+  0123456789
+0 .rrr....r.
+1 rr.rr..rrr
+2 ..r.......
+3 ..........
+4 ...rr.....
+5 .r.....r..
+6 ........r.
+7 ..........
+8 f.........
+
+Turn = 26.
+  0123456789
+0 rrr..rr...
+1 rr........
+2 r..r......
+3 ....r..rrr
+4 ..........
+5 r........r
+6 ....r....r
+7 ..........
+8 f.........
+
+Turn = 28.
+  0123456789
+0 rr.r.rr...
+1 rrr.......
+2 ..........
+3 r.........
+4 .........r
+5 ....r..rrr
+6 ........r.
+7 r.........
+8 f...r.....
+
+Turn = 30.
+  0123456789
+0 rrr.....r.
+1 rr...r....
+2 ..........
+3 ..r.......
+4 .......r..
+5 r......rr.
+6 .........r
+7 r...r..r..
+8 r....r....
+
+Turn = 32.
+  0123456789
+0 rrr......r
+1 .r.r......
+2 ..........
+3 .....r..r.
+4 .....r....
+5 ..r..r....
+6 r.........
+7 ..........
+8 r.r.r.rr.r
+
+Turn = 34.
+  0123456789
+0 rrr.....r.
+1 ...r.r..r.
+2 ..........
+3 ......r...
+4 ...r......
+5 r..r......
+6 ..........
+7 ..r.......
+8 .r..rrrr.r
+
+Turn = 36.
+  0123456789
+0 .r..r.r.r.
+1 .....r.r..
+2 .r........
+3 r.......r.
+4 .r........
+5 .r........
+6 ..........
+7 .......r..
+8 .rr.rrr.r.
+
+Turn = 38.
+  0123456789
+0 ...r.rrr..
+1 r......r.r
+2 ..........
+3 .........r
+4 rr........
+5 r......r..
+6 ......r...
+7 ..........
+8 rr..rrr...
+
+Turn = 40.
+  0123456789
+0 r....rr...
+1 ......r.rr
+2 r....r...r
+3 r......r..
+4 ......r...
+5 ..........
+6 .r........
+7 .r..r.....
+8 .r...rr...
+
+Turn = 42.
+  0123456789
+0 r.......r.
+1 r....rrr.r
+2 r.....r..r
+3 ......r...
+4 .....r....
+5 ....r.....
+6 r.........
+7 ...r......
+8 ...r..r.r.
+
+Turn = 44.
+  0123456789
+0 r.....r...
+1 ......rrr.
+2 r.r....rr.
+3 ....rr..r.
+4 ..........
+5 r.........
+6 .....r....
+7 .....r....
+8 .....r..rr
+
+Turn = 46.
+  0123456789
+0 r...r.rrr.
+1 ....r..r..
+2 ...r.....r
+3 r........r
+4 r.........
+5 .....r....
+6 ......r...
+7 .......rr.
+8 .......r.r
+
+Turn = 48.
+  0123456789
+0 ..rrrr.r.r
+1 ...r.....r
+2 .........r
+3 ..r.......
+4 ..........
+5 r.......rr
+6 .......r.r
+7 .....r....
+8 .......r.r
+
+Turn = 50.
+  0123456789
+0 ..rrrr...r
+1 ....r.....
+2 .....r.r.r
+3 ....r...r.
+4 .......r..
+5 .........r
+6 ........r.
+7 r.........
+8 .....rr..r
+
+Turn = 52.
+  0123456789
+0 ....r.....
+1 ..r.rr..r.
+2 ...r.r.r.r
+3 .........r
+4 ....rr...r
+5 ..........
+6 ......r...
+7 ..........
+8 r..rr..r..
+
+Turn = 54.
+  0123456789
+0 ..r.r..rr.
+1 ......r...
+2 ...r.....r
+3 ..r......r
+4 ...r.....r
+5 .....r....
+6 ....rr....
+7 ..........
+8 .rrr.r....
+
+Turn = 56.
+  0123456789
+0 r.r...r..r
+1 .......rr.
+2 .r........
+3 .......r.r
+4 ..........
+5 ..rr......
+6 ...r......
+7 ...rr.....
+8 rr.r.r....
+
+Turn = 58.
+  0123456789
+0 rr..r..rr.
+1 .........r
+2 r.........
+3 .....r..r.
+4 ..........
+5 .r........
+6 ..rr......
+7 rr....r...
+8 .rr.r.....
+
+Turn = 60.
+  0123456789
+0 r.rr...rrr
+1 r.........
+2 ..........
+3 ...r......
+4 ...r......
+5 r.r.....r.
+6 r.........
+7 r.......r.
+8 r.rr......
+
+Turn = 62.
+  0123456789
+0 rrr..rr...
+1 .........r
+2 ...r......
+3 rrrr......
+4 ..........
+5 ..........
+6 r.r.......
+7 r.......rr
+8 .r..r.....
+
+Turn = 64.
+  0123456789
+0 r.rrrr....
+1 r.r.......
+2 ..r.......
+3 rr.......r
+4 ..r.......
+5 .........r
+6 ..r.......
+7 ..........
+8 r..r..r.r.
+
+Turn = 66.
+  0123456789
+0 .rrr.r....
+1 rr........
+2 r.r..r....
+3 r.........
+4 .........r
+5 r........r
+6 ....r.....
+7 ........r.
+8 r....r.r..
+
+Turn = 68.
+  0123456789
+0 r.rr...r..
+1 rrr.......
+2 ..........
+3 r.........
+4 .....r.r..
+5 r.......r.
+6 ......rr..
+7 r........r
+8 ..r....r..
+
+Turn = 70.
+  0123456789
+0 r...r....r
+1 rr........
+2 ..........
+3 rr......r.
+4 .....r.r..
+5 r.....r...
+6 .....r....
+7 r.........
+8 r...r...rr
+
+Turn = 72.
+  0123456789
+0 ......r...
+1 r.......rr
+2 .......r..
+3 rr....r...
+4 ...r......
+5 rr........
+6 r.......r.
+7 .r...r....
+8 ..r...r..r
+
+Turn = 74.
+  0123456789
+0 .......rr.
+1 ......rr..
+2 ..........
+3 r........r
+4 rr......r.
+5 rr........
+6 ..........
+7 rr.rr.....
+8 ....r...rr
+
+Turn = 76.
+  0123456789
+0 ......rrr.
+1 .........r
+2 ........r.
+3 rr........
+4 r.........
+5 .r.......r
+6 ..........
+7 .r...r..rr
+8 rr.r..r...
+
+Turn = 78.
+  0123456789
+0 ....r.r.r.
+1 .r......r.
+2 .........r
+3 .r........
+4 ..........
+5 r..r....r.
+6 .........r
+7 ..r....r.r
+8 r.r.r...r.
+
+Turn = 80.
+  0123456789
+0 .rr.r....r
+1 ......r...
+2 ..........
+3 ...r....r.
+4 .........r
+5 .....r....
+6 ..........
+7 r...r...rr
+8 r..r..r.rr
+
+Turn = 82.
+  0123456789
+0 rrr.......
+1 ....r...r.
+2 .........r
+3 .....r....
+4 ..........
+5 .......r..
+6 .........r
+7 r.....r.rr
+8 ..r..r.rrr
+
+Turn = 84.
+  0123456789
+0 rr......r.
+1 ..r.......
+2 .r........
+3 .......r..
+4 .........r
+5 r........r
+6 ........r.
+7 .......rrr
+8 ....r.rrrr
+
+Turn = 86.
+  0123456789
+0 ..r...r...
+1 ..........
+2 rr........
+3 r........r
+4 .r......rr
+5 .........r
+6 ......r...
+7 .......rr.
+8 .....rrrrr
+
+Turn = 88.
+  0123456789
+0 ...rr.....
+1 ..........
+2 .r.......r
+3 r.........
+4 .r....r.r.
+5 ........rr
+6 .r..r.r...
+7 ........r.
+8 ......rrrr
+
+Turn = 90.
+  0123456789
+0 ...r.....r
+1 ....r.....
+2 ...r......
+3 ........rr
+4 ....r.r...
+5 r.....r...
+6 .rr.......
+7 ......r.rr
+8 .r....r..r
+
+Turn = 92.
+  0123456789
+0 .....r...r
+1 ........rr
+2 ..........
+3 ...rr.....
+4 ..r.r.....
+5 ....r.r.r.
+6 r.........
+7 rr......r.
+8 r...r..r..
+
+Turn = 94.
+  0123456789
+0 .......rrr
+1 .........r
+2 ..........
+3 .....rr.r.
+4 r..r......
+5 ..r.r.....
+6 r.........
+7 r..r..r...
+8 r.r..r....
+
+Turn = 96.
+  0123456789
+0 ........rr
+1 ......rrr.
+2 .....r..r.
+3 ..........
+4 .r........
+5 rr........
+6 r...r.....
+7 r...rr....
+8 rr.r......
+
+Turn = 98.
+  0123456789
+0 .....rrr.r
+1 ......r...
+2 .........r
+3 .r.....r..
+4 r.........
+5 r....r....
+6 r.r.......
+7 r.........
+8 rrr.r.....
+
+Turn = 100.
+  0123456789
+0 .....r....
+1 .r..r.r...
+2 .......r.r
+3 .....r....
+4 r........r
+5 r......r..
+6 rr........
+7 rr........
+8 rrr.......
+
+Turn = 102.
+  0123456789
+0 .r........
+1 ..r..r....
+2 r....r....
+3 ......r...
+4 .r.....r.r
+5 r.........
+6 r........r
+7 rrrr...r..
+8 r.........
+
+Turn = 104.
+  0123456789
+0 r..r......
+1 r..r......
+2 .r.r......
+3 ..........
+4 ..........
+5 r.r...r...
+6 rr.....r.r
+7 ..r..r....
+8 r......r.r
+
+Turn = 106.
+  0123456789
+0 rr...r....
+1 .r........
+2 rr........
+3 ..r.......
+4 .r........
+5 r.........
+6 r.....r...
+7 r...r.r..r
+8 .....r.r.r
+
+Turn = 108.
+  0123456789
+0 rr.....r..
+1 r.r.......
+2 rr........
+3 r.........
+4 r.........
+5 r.........
+6 ........rr
+7 .r....r...
+8 ...r..r.rr
+
+Turn = 110.
+  0123456789
+0 rrr......r
+1 rr........
+2 r.........
+3 r.........
+4 r.r......r
+5 ........r.
+6 .........r
+7 ...r....r.
+8 .r.....rr.
+
+Turn = 112.
+  0123456789
+0 rrr......r
+1 r..r......
+2 .r.......r
+3 ........r.
+4 r.r.r....r
+5 ..........
+6 ..........
+7 .....r...r
+8 r.......rr
+
+Turn = 114.
+  0123456789
+0 rr..r..r.r
+1 .....r..r.
+2 r..r.....r
+3 ..........
+4 ....r.r...
+5 ..........
+6 r.........
+7 .......rr.
+8 r.......rr
+
+Turn = 116.
+  0123456789
+0 r....rr.rr
+1 .......r.r
+2 .r...r....
+3 ..........
+4 r.....r.r.
+5 ..........
+6 .......rrr
+7 r.........
+8 .r......r.
+
+Turn = 118.
+  0123456789
+0 ..r...rr.r
+1 ........r.
+2 .....r.r.r
+3 ..........
+4 .r.....rrr
+5 ........rr
+6 r.........
+7 ..r.......
+8 ...r.....r
+
+Turn = 120.
+  0123456789
+0 ....r...rr
+1 ..........
+2 ......rr.r
+3 .......r.r
+4 .....r..rr
+5 ........r.
+6 .r.......r
+7 ....r.....
+8 r....r..r.
+
+Turn = 122.
+  0123456789
+0 ......rr.r
+1 ..........
+2 ........rr
+3 ........r.
+4 ......r.rr
+5 ..........
+6 .....r..rr
+7 ......r...
+8 rr....rr.r
+
+Turn = 124.
+  0123456789
+0 ......rr..
+1 ........rr
+2 ..........
+3 ........rr
+4 ......r...
+5 ..........
+6 r.....r..r
+7 ......rr.r
+8 ..r..rr.rr
+
+Turn = 126.
+  0123456789
+0 ........rr
+1 ......r...
+2 .......r..
+3 ..........
+4 r...r.....
+5 .......rrr
+6 ......r.rr
+7 ....r.....
+8 ....rrrr.r
+
+Turn = 128.
+  0123456789
+0 ......r..r
+1 ..........
+2 r.........
+3 ......rr..
+4 ..r....r..
+5 ........rr
+6 ......r.rr
+7 ..r.r.r...
+8 ....r.rr..
+
+Turn = 130.
+  0123456789
+0 r...r.....
+1 ..........
+2 .........r
+3 .....r.r.r
+4 r........r
+5 ....r.rr..
+6 ....r.r...
+7 r.......r.
+8 ..r.r....r
+
+Turn = 132.
+  0123456789
+0 .rr.......
+1 .......r..
+2 ........r.
+3 r..rr....r
+4 ........r.
+5 .....r....
+6 r.r.r..r..
+7 .........r
+8 r.r......r
+
+Turn = 134.
+  0123456789
+0 .......r..
+1 rrr.r.....
+2 ......r...
+3 .r........
+4 r.....r...
+5 ...r.....r
+6 r.r.......
+7 r........r
+8 r......rr.
+
+Turn = 136.
+  0123456789
+0 r...rr....
+1 ..........
+2 ....r.....
+3 rrr.......
+4 r...r.....
+5 .r........
+6 rr.......r
+7 .r......r.
+8 r.....r..r
+
+Turn = 138.
+  0123456789
+0 ..r.......
+1 r...rr....
+2 ..r.......
+3 ..........
+4 .rr.......
+5 rrr.......
+6 r.........
+7 r..r..r..r
+8 r...r....r
+
+Turn = 140.
+  0123456789
+0 r...r.....
+1 ..........
+2 r.........
+3 ....rr....
+4 rr........
+5 rr........
+6 r.........
+7 rrr.rr..rr
+8 ..r.......
+
+Turn = 142.
+  0123456789
+0 ..r...r...
+1 r.........
+2 ..........
+3 ..........
+4 rr........
+5 r..rrr...r
+6 r.........
+7 rrr...r...
+8 r...rr....
+
+Turn = 144.
+  0123456789
+0 r...r...r.
+1 ..........
+2 r.........
+3 .........r
+4 r.........
+5 ..r.......
+6 rr.r.r....
+7 r...rr....
+8 rrr....r..
+
+Turn = 146.
+  0123456789
+0 r.r...r..r
+1 .........r
+2 r.........
+3 ..r.......
+4 ..........
+5 .....r....
+6 r......r..
+7 rr........
+8 rrrrr....r
+
+Turn = 148.
+  0123456789
+0 r...r...rr
+1 r.r.....r.
+2 ..........
+3 .....r....
+4 ..........
+5 ..........
+6 r........r
+7 rr..r....r
+8 rrrr......
+
+Turn = 150.
+  0123456789
+0 rrr...r.r.
+1 .....rr...
+2 .........r
+3 ..........
+4 ..........
+5 r...r....r
+6 ..rr......
+7 ..r......r
+8 rrr.......
+
+Turn = 152.
+  0123456789
+0 rr..rr.rr.
+1 ....r.....
+2 ..........
+3 r...r....r
+4 ...r.....r
+5 ..........
+6 ..r.......
+7 ...r......
+8 rrr......r
+
+Turn = 154.
+  0123456789
+0 r....r..rr
+1 r.r.r.....
+2 r..rr.....
+3 .......r..
+4 .......r..
+5 ..........
+6 .r..r.....
+7 .....r....
+8 rr.....r..
+
+Turn = 156.
+  0123456789
+0 .r.r...r..
+1 rr...r..r.
+2 ..r......r
+3 r....r....
+4 .r...r....
+5 ..........
+6 .r....r...
+7 r......r..
+8 .....r....
+
+Turn = 158.
+  0123456789
+0 .rrr.....r
+1 .......r..
+2 rr........
+3 .r.r....r.
+4 .r.r.....r
+5 r.........
+6 r.......r.
+7 .........r
+8 ...r......
+
+Turn = 160.
+  0123456789
+0 .r.r.....r
+1 .r.......r
+2 .r.r......
+3 .r........
+4 rrr.......
+5 r.......rr
+6 ..r......r
+7 ..........
+8 .r.......r
+
+Turn = 162.
+  0123456789
+0 .r.r.r...r
+1 r........r
+2 .rr.......
+3 r.........
+4 .r.r.....r
+5 .r.....r..
+6 ....r.....
+7 ........r.
+8 r........r
+
+Turn = 164.
+  0123456789
+0 rrr..r.r..
+1 .......r.r
+2 .........r
+3 r.........
+4 ...r......
+5 r.r..r....
+6 r..r..r...
+7 ..........
+8 ........rr
+
+Turn = 166.
+  0123456789
+0 .r.r...r.r
+1 r....r...r
+2 .........r
+3 ..r.......
+4 r....r....
+5 r..r......
+6 .r......r.
+7 ..........
+8 ...r..r..r
+
+Turn = 168.
+  0123456789
+0 .....r..rr
+1 ..rr....r.
+2 .r........
+3 r.........
+4 ..r....r.r
+5 .r........
+6 ...r.....r
+7 r.........
+8 ..r.r...r.
+
+Turn = 170.
+  0123456789
+0 ..r....rr.
+1 .r....r..r
+2 ..........
+3 ..........
+4 rr..r....r
+5 r.........
+6 .....r...r
+7 ..........
+8 rrr...r..r
+
+Turn = 172.
+  0123456789
+0 r.........
+1 r...r..r..
+2 ........r.
+3 r........r
+4 ......r..r
+5 ..........
+6 .r.....r..
+7 r.r......r
+8 rr..r...r.
+
+Turn = 174.
+  0123456789
+0 ..........
+1 r.r.......
+2 r.........
+3 r......rrr
+4 .......rr.
+5 ..r.......
+6 .........r
+7 rr.....r..
+8 rrr...r...
+
+Turn = 176.
+  0123456789
+0 ..........
+1 rr........
+2 ..r.......
+3 ..r...r.r.
+4 ........r.
+5 r........r
+6 rr.....r..
+7 r..r.r...r
+8 r...r.....
+
+Turn = 178.
+  0123456789
+0 ..........
+1 ..r.......
+2 ....r.....
+3 rr..r.r...
+4 .r........
+5 r.........
+6 r....r..r.
+7 rr..r....r
+8 ..r....r.r
+
+Turn = 180.
+  0123456789
+0 ..r.......
+1 ..........
+2 ......r...
+3 r.r.r.....
+4 r.r..r....
+5 r...r.....
+6 r.........
+7 r..r....r.
+8 r......rrr
+
+Turn = 182.
+  0123456789
+0 ....r.....
+1 ..........
+2 r....r..r.
+3 r.r.r.....
+4 r..r......
+5 .r........
+6 ..r.......
+7 rr...rr..r
+8 .......rr.
+
+Turn = 184.
+  0123456789
+0 r....rr...
+1 ....r.....
+2 r..r.....r
+3 r.........
+4 r.........
+5 r..r.....r
+6 ....r.r...
+7 ...r......
+8 .....r.r.r
+
+Turn = 186.
+  0123456789
+0 rr.rr.r.r.
+1 ..........
+2 ..........
+3 r........r
+4 r.r...r..r
+5 .....r....
+6 ......rr..
+7 .....r....
+8 ......r..r
+
+Turn = 188.
+  0123456789
+0 r.rrr...rr
+1 ..........
+2 ......r...
+3 r.r....r..
+4 ....r..r..
+5 ......rr..
+6 ......r...
+7 .......r..
+8 .......rr.
+
+Turn = 190.
+  0123456789
+0 ...r..r.r.
+1 r...r.....
+2 r.r......r
+3 ....rr....
+4 .....rr...
+5 .......r.r
+6 .......rr.
+7 .........r
+8 .........r
+
+Turn = 192.
+  0123456789
+0 .....rr...
+1 r.........
+2 ...rrrr...
+3 r...r.....
+4 ..r....r.r
+5 ........rr
+6 .....r...r
+7 .........r
+8 .........r
+
+*** Darwin 1x5 ***
+Turn = 0.
+  01234
+0 fthrr
+
+Turn = 4.
+  01234
+0 ftrrr
+
+Turn = 8.
+  01234
+0 ttttt
+
+Turn = 12.
+  01234
+0 ttttt
+
+Turn = 16.
+  01234
+0 ttttt
+
+Turn = 20.
+  01234
+0 ttttt
+
+Turn = 24.
+  01234
+0 ttttt
+
+Turn = 28.
+  01234
+0 ttttt
+
+Turn = 32.
+  01234
+0 ttttt
+
+Turn = 36.
+  01234
+0 ttttt
+
+Turn = 40.
+  01234
+0 ttttt
+
+Turn = 44.
+  01234
+0 ttttt
+
+Turn = 48.
+  01234
+0 ttttt
+
+Turn = 52.
+  01234
+0 ttttt
+
+Turn = 56.
+  01234
+0 ttttt
+
+Turn = 60.
+  01234
+0 ttttt
+
+Turn = 64.
+  01234
+0 ttttt
+
+Turn = 68.
+  01234
+0 ttttt
+
+Turn = 72.
+  01234
+0 ttttt
+
+Turn = 76.
+  01234
+0 ttttt
+
+Turn = 80.
+  01234
+0 ttttt
+
+Turn = 84.
+  01234
+0 ttttt
+
+Turn = 88.
+  01234
+0 ttttt
+
+Turn = 92.
+  01234
+0 ttttt
+
+Turn = 96.
+  01234
+0 ttttt
+
+Turn = 100.
+  01234
+0 ttttt
+
+Turn = 104.
+  01234
+0 ttttt
+
+Turn = 108.
+  01234
+0 ttttt
+
+Turn = 112.
+  01234
+0 ttttt
+
+Turn = 116.
+  01234
+0 ttttt
+
+Turn = 120.
+  01234
+0 ttttt
+
+Turn = 124.
+  01234
+0 ttttt
+
+*** Darwin 4x7 ***
+Turn = 0.
+  0123456
+0 rhffttf
+1 tttrfrh
+2 rhfh.ff
+3 frrrf.f
+
+Turn = 1.
+  0123456
+0 thftttf
+1 tttttth
+2 rtfrhff
+3 frr.f.f
+
+Turn = 2.
+  0123456
+0 thftttf
+1 tttrtth
+2 ttrrhff
+3 rrr.f.f
+
+Turn = 3.
+  0123456
+0 thttttt
+1 ttrrtth
+2 trrrttf
+3 trr.f.f
+
+Turn = 4.
+  0123456
+0 ttttttt
+1 trrrttt
+2 trrrttt
+3 tr.rf.f
+
+Turn = 5.
+  0123456
+0 ttttttt
+1 trrtttt
+2 ttttttt
+3 t.rrr.f
+
+Turn = 6.
+  0123456
+0 ttttttt
+1 trttttt
+2 ttttttt
+3 t.rrr.t
+
+Turn = 7.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttrtttt
+3 t.rtt.t
+
+Turn = 8.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttrtttt
+3 t.ttt.t
+
+Turn = 9.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 10.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 11.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 12.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 13.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 14.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 15.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+Turn = 16.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 t.ttt.t
+
+*** Darwin 10x10 ***
+Turn = 0.
+  0123456789
+0 fr...trf..
+1 ...t....f.
+2 h......t.f
+3 .h.f.r.trh
+4 .f...rrhf.
+5 f.th..t..h
+6 ..tr..r..f
+7 h..ftf.h.h
+8 ff....f.rt
+9 r.htfrh..r
+
+Turn = 7.
+  0123456789
+0 rrr...rr..
+1 h.r.r..tr.
+2 ...t...t.r
+3 r..t...tt.
+4 .f.tr..tt.
+5 f.tt...ttt
+6 ..t.r....t
+7 h....ttr..
+8 frrr..rrtt
+9 .r.rrrr...
+
+Turn = 14.
+  0123456789
+0 rr..r.r..r
+1 r..r..rt..
+2 ..r.t..t..
+3 ...t.r.ttt
+4 rrrtt..tt.
+5 r.ttt..trr
+6 ..t.r...rr
+7 h......r.r
+8 rrrr....r.
+9 rr....rr.r
+
+Turn = 21.
+  0123456789
+0 rrrr..tt..
+1 rrr....t..
+2 ...t...t.r
+3 r.rt...ttt
+4 ...tt.tttt
+5 r.tttt....
+6 .rt.t....r
+7 r......rr.
+8 .r..rrr.r.
+9 rrrrrr....
+
+Turn = 28.
+  0123456789
+0 r..rrrrr..
+1 .......tr.
+2 r.tt...t..
+3 ...tr..ttt
+4 ..rr..tttt
+5 .rrttt.ttt
+6 rrrttr....
+7 rrrrr.....
+8 r..r.r....
+9 r..r..r...
+
+Turn = 35.
+  0123456789
+0 .rrr......
+1 .rr..r.r.r
+2 ......rrrr
+3 r...r.rr.t
+4 ...rr.rrrt
+5 rr...rrrrt
+6 .r.......r
+7 r.......rr
+8 .rr.r.r.rr
+9 rrrr.r.r.r
+
+Turn = 42.
+  0123456789
+0 ....rrr.rr
+1 rr....rr..
+2 .rr...rrrr
+3 r.rr.rr..r
+4 r...r...r.
+5 .....r...r
+6 ...rr..rrr
+7 ...rrrrrr.
+8 rr..rr.r.r
+9 rrrr.r....
+
+Turn = 49.
+  0123456789
+0 rrr...rrrr
+1 ....rr....
+2 r.r.rrr...
+3 rrr....rrr
+4 .rr.rr..rr
+5 rr....rr.r
+6 r.r..r.r..
+7 r.r.rrr...
+8 ...rrr....
+9 ...rr.rrr.
+
+Turn = 56.
+  0123456789
+0 r.rr..r.rr
+1 .rrr.r.r.r
+2 rr.rr.rr..
+3 rr.r.r.r.r
+4 .....r....
+5 ....rrr.r.
+6 .r.rr.rr..
+7 r..r.r.r..
+8 r..rrr..r.
+9 rr...r..rr
+
+Turn = 63.
+  0123456789
+0 rrrrrrr...
+1 rrrrr.....
+2 r..r.....r
+3 ...r....r.
+4 .rr..rr...
+5 rr..rrr..r
+6 rr...r.r.r
+7 rr.rr.....
+8 rrrr....r.
+9 r.rrrrrr..
+
+Turn = 70.
+  0123456789
+0 rrrrrr..rr
+1 ....r.r.rr
+2 ..rrr..r.r
+3 r.r...rrr.
+4 rrr..r.r..
+5 rrr...r...
+6 rr.rr.....
+7 rr..rr..r.
+8 rr.....r..
+9 rr...rrr..
+
+Turn = 77.
+  0123456789
+0 rr..r.rrrr
+1 rrrrrr.r.r
+2 ...r..rr.r
+3 r..rr.....
+4 rrr.....r.
+5 .rr..rrr..
+6 r..r..r.rr
+7 ..r.r...r.
+8 rrr...r...
+9 rrrr...r..
+
+Turn = 84.
+  0123456789
+0 rr.rrrr...
+1 r.r.rr.r.r
+2 rrrr.rrrr.
+3 .r..r.r...
+4 ..r.r.....
+5 rr.rr.....
+6 rrrr......
+7 rr.r......
+8 rr.rr.....
+9 rr.rrr.rrr
+
+Turn = 91.
+  0123456789
+0 rrr.r.r...
+1 rrrr......
+2 rrrrrr..rr
+3 rrr..rr.rr
+4 rr..r.....
+5 rr..rr....
+6 rrrr.r....
+7 r...r.rr.r
+8 ....r.r.rr
+9 rr....r...
+
+Turn = 98.
+  0123456789
+0 rrrr.r.rrr
+1 rrrrr.....
+2 rr.r.....r
+3 rrr.r.....
+4 rrrr.r....
+5 rrrrr.....
+6 rrr....r.r
+7 ...r.....r
+8 r.r..r...r
+9 rrr.r.r..r
+
+Turn = 105.
+  0123456789
+0 r.rrrr.rr.
+1 rr.r.rr.rr
+2 .r.r.r...r
+3 r..r.rrrr.
+4 ..rrr.r..r
+5 rr......r.
+6 r...r..rrr
+7 rrrr...r..
+8 ...r....r.
+9 .rr.r....r
+
+Turn = 112.
+  0123456789
+0 r....r.rrr
+1 r...rr.r..
+2 .rr.rr..r.
+3 .r.rrr....
+4 rr.rr.rrr.
+5 .rrrr.r..r
+6 r..rr....r
+7 ..rr..r...
+8 r.r..r...r
+9 rrrrr.r...
+
+Turn = 119.
+  0123456789
+0 rr...rr...
+1 rr.r..rr..
+2 ...rr..rrr
+3 ..r..rr...
+4 rrrr...r.r
+5 rrr..r..r.
+6 rrr..r....
+7 .rrrr.....
+8 rrrr....r.
+9 ..rr.rrrrr
+
+Turn = 126.
+  0123456789
+0 r.rrrrrr.r
+1 .r.r...r..
+2 rrr.rr....
+3 r.r.r.rr.r
+4 rrr.r...rr
+5 .....r....
+6 r..rr.....
+7 rr...r..r.
+8 .rrrrrrr..
+9 ..rr..rrr.
+
+Turn = 133.
+  0123456789
+0 r..rrrr..r
+1 r..rrrr...
+2 .rrrr.....
+3 .r.rr..r..
+4 rrr....rr.
+5 ..r.rrr..r
+6 r....rr.rr
+7 rrr.....rr
+8 r..r....r.
+9 r.rr...rrr
+
+Turn = 140.
+  0123456789
+0 rrrrrrr..r
+1 rrr.r.r..r
+2 r..rr..rrr
+3 rr..r.rr..
+4 r........r
+5 rr....r..r
+6 r.r..r....
+7 rr.r.rr...
+8 .r....r..r
+9 rr..rrr..r
+
+Turn = 147.
+  0123456789
+0 rrrrrrr.r.
+1 rrrrr.r..r
+2 r..rrrrr..
+3 ..r......r
+4 ...r.rr.r.
+5 r.r..rrrrr
+6 .....r.r.r
+7 .rr.....rr
+8 rr.r......
+9 rr..r....r
+
+Turn = 154.
+  0123456789
+0 r..rrrrrrr
+1 rr.rrr.rrr
+2 .rrr...rrr
+3 rr...rr...
+4 rr....r...
+5 r..r...r.r
+6 .rr.r...rr
+7 ..rr.r....
+8 r....r..rr
+9 ..r.rr....
+
+Turn = 161.
+  0123456789
+0 rr.rrr..rr
+1 rrr.r...rr
+2 .r.rrr.r..
+3 ...rr.r...
+4 r..r.rrr..
+5 rr..rr.rrr
+6 rr........
+7 r.r....rr.
+8 r.rrr....r
+9 rr....r.r.
+
+Turn = 168.
+  0123456789
+0 rr.rrr.r.r
+1 rr.rr.r...
+2 rr....rr..
+3 rrrr..r.rr
+4 r.r.......
+5 r.rrr.....
+6 r.r......r
+7 rr.rrr..r.
+8 r.rr.r..r.
+9 rrr...r..r
+
+Turn = 175.
+  0123456789
+0 r..rrrr..r
+1 .rr.rrr...
+2 rrrr.r....
+3 rrrrr.....
+4 rr.r..r...
+5 r....r....
+6 rrr...rr..
+7 r.rr...r..
+8 .rrr.rr...
+9 rrr.r..rrr
+
+Turn = 182.
+  0123456789
+0 rr.r..rr..
+1 rrr.r.....
+2 rrrr..r...
+3 r.rrrrr...
+4 r.rrrr.rrr
+5 .r.r....rr
+6 rr........
+7 rrr......r
+8 rr.r....r.
+9 .rr.rrr..r
+
+Turn = 189.
+  0123456789
+0 .r.r......
+1 rrrr...r.r
+2 rr.r.....r
+3 rr.r.r...r
+4 rrr.rrrr.r
+5 rr...r.r..
+6 rrrrr.rrr.
+7 r..r.r.r.r
+8 r.r...r..r
+9 rr........
+
+Turn = 196.
+  0123456789
+0 r.r...rrrr
+1 r...r.r.r.
+2 rrrrrr....
+3 rrrrr.....
+4 .r.....r..
+5 rrrr......
+6 r.r......r
+7 rr.rrrr.rr
+8 ..rrrrr...
+9 r..rrr...r
+
+*** Darwin 3x6 ***
+Turn = 0.
+  012345
+0 hfftrt
+1 ffhhrt
+2 rtrrhf
+
+Turn = 5.
+  012345
+0 rrrrrr
+1 rrrtrr
+2 rrrttt
+
+Turn = 10.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 15.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 20.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 25.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 30.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 35.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 40.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 45.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 50.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 55.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 60.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 65.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 70.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 75.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+Turn = 80.
+  012345
+0 rrrrrr
+1 rrrrrr
+2 rrrrrr
+
+*** Darwin 9x5 ***
+Turn = 0.
+  01234
+0 rr.tr
+1 h.frt
+2 f.h.f
+3 .thrt
+4 rt.fr
+5 tth.t
+6 rhthf
+7 frhr.
+8 hf..h
+
+Turn = 11.
+  01234
+0 rrrrr
+1 rr.r.
+2 r..rr
+3 ..rrt
+4 ttrrt
+5 trt.t
+6 tttrt
+7 tttt.
+8 tt.t.
+
+Turn = 22.
+  01234
+0 rr.r.
+1 .r.rr
+2 .t.tr
+3 tttrr
+4 rrrrr
+5 ttt.t
+6 ttttt
+7 tttt.
+8 tt.t.
+
+*** Darwin 8x7 ***
+Turn = 0.
+  0123456
+0 ..t...r
+1 ..r....
+2 ....r..
+3 ...h..r
+4 hf.r...
+5 .......
+6 .hr....
+7 .....r.
+
+Turn = 9.
+  0123456
+0 rrt....
+1 .ht....
+2 .......
+3 h.....r
+4 .......
+5 ......r
+6 .r.....
+7 r..r..r
+
+Turn = 18.
+  0123456
+0 ttt....
+1 ..t...r
+2 ......r
+3 .....rr
+4 .......
+5 r......
+6 ...rr.r
+7 .......
+
+Turn = 27.
+  0123456
+0 rrt...r
+1 .rrt..r
+2 .......
+3 .....r.
+4 r.r....
+5 .......
+6 .......
+7 .....r.
+
+Turn = 36.
+  0123456
+0 rrtt..r
+1 ...tt..
+2 .......
+3 .......
+4 .......
+5 .......
+6 .r.r...
+7 rr....r
+
+Turn = 45.
+  0123456
+0 .r.....
+1 ..r....
+2 r......
+3 ......r
+4 r...r..
+5 r..r...
+6 .r.r...
+7 ..rr...
+
+Turn = 54.
+  0123456
+0 r...r.r
+1 ....r..
+2 .......
+3 .......
+4 ...r..r
+5 r.....r
+6 r....r.
+7 ..r..r.
+
+Turn = 63.
+  0123456
+0 rrr...r
+1 ......r
+2 ....r.r
+3 .....r.
+4 r......
+5 .r.r...
+6 r......
+7 .......
+
+Turn = 72.
+  0123456
+0 ...r...
+1 .r.....
+2 rr.....
+3 rr...r.
+4 r......
+5 .r..r..
+6 .......
+7 r.....r
+
+Turn = 81.
+  0123456
+0 ....r..
+1 ..r.r..
+2 ..r....
+3 .......
+4 ..r..r.
+5 ......r
+6 ......r
+7 rrr...r
+
+Turn = 90.
+  0123456
+0 .r....r
+1 ......r
+2 .....r.
+3 .......
+4 r...rrr
+5 .....r.
+6 r......
+7 rr.....
+
+Turn = 99.
+  0123456
+0 r.r..r.
+1 rr.....
+2 .......
+3 .....r.
+4 .......
+5 r.....r
+6 ......r
+7 r..r.r.
+
+Turn = 108.
+  0123456
+0 rr..r..
+1 ......r
+2 ..r.r..
+3 .r.r...
+4 .......
+5 r......
+6 r......
+7 .rr....
+
+Turn = 117.
+  0123456
+0 r......
+1 ......r
+2 rr.....
+3 r......
+4 r......
+5 .......
+6 rr...rr
+7 r.....r
+
+Turn = 126.
+  0123456
+0 rr....r
+1 .....rr
+2 ......r
+3 .......
+4 r......
+5 ..r....
+6 .r..r..
+7 .r.r...
+
+Turn = 135.
+  0123456
+0 ..r....
+1 ....r..
+2 .......
+3 r......
+4 .....r.
+5 .r.....
+6 r...r.r
+7 .rrrr..
+
+Turn = 144.
+  0123456
+0 .r...r.
+1 .r.....
+2 r......
+3 .....r.
+4 r.....r
+5 .......
+6 .rrr...
+7 .....rr
+
+Turn = 153.
+  0123456
+0 r...r..
+1 .....rr
+2 ....r..
+3 .......
+4 .......
+5 .....r.
+6 r.r....
+7 rr.rr..
+
+Turn = 162.
+  0123456
+0 r......
+1 .r.....
+2 r.r....
+3 ..rr...
+4 ....r..
+5 r......
+6 ...rr..
+7 ....r.r
+
+*** Darwin 6x10 ***
+Turn = 0.
+  0123456789
+0 h.frrf.th.
+1 t.........
+2 h.t......r
+3 ff.r...f..
+4 ...rhh....
+5 ..ft.hrr..
+
+Turn = 19.
+  0123456789
+0 r.r......r
+1 r.rrr.r...
+2 rr....r...
+3 ..t.......
+4 ..t.....rr
+5 .rttttrr.r
+
+Turn = 38.
+  0123456789
+0 r..r..rrr.
+1 rrrr.r...r
+2 ....rr....
+3 ...r.rr...
+4 r.....tt.r
+5 r.....rr..
+
+Turn = 57.
+  0123456789
+0 .....rrrrr
+1 ..rrr.r...
+2 ...r...r..
+3 .......trr
+4 ...rr..t.r
+5 r...r..rrr
+
+Turn = 76.
+  0123456789
+0 r..r..rr.r
+1 r..rr..rrr
+2 ..r...r..r
+3 r......r.r
+4 .r........
+5 r.rr...rr.
+
+Turn = 95.
+  0123456789
+0 rrrrrr..r.
+1 r.r......r
+2 r....r.r..
+3 ......r...
+4 rrrrr.....
+5 .rrrr.....
+
+Turn = 114.
+  0123456789
+0 rrr.rr....
+1 r.rr.....r
+2 rr.rrr....
+3 r.......r.
+4 .......r.r
+5 .r.r.rr.r.
+
+Turn = 133.
+  0123456789
+0 rrrr....rr
+1 r..r..r.r.
+2 .rr.....rr
+3 .r.....r..
+4 r...r.....
+5 r.r.r...rr
+
+Turn = 152.
+  0123456789
+0 r...rrrr.r
+1 rr.....rr.
+2 ......rr.r
+3 ....rr...r
+4 rrrr......
+5 rrr.......
+
+*** Darwin 10x1 ***
+Turn = 0.
+  0
+0 h
+1 r
+2 t
+3 r
+4 r
+5 h
+6 r
+7 r
+8 f
+9 t
+
+*** Darwin 5x8 ***
+Turn = 0.
+  01234567
+0 .ttftrth
+1 h.fhhrh.
+2 rhrrff.t
+3 trtrfh.t
+4 .t.f.trf
+
+Turn = 9.
+  01234567
+0 rr.rr.tr
+1 .rrrrrrr
+2 rr.rrrrt
+3 rrr..rrr
+4 rrrrrr..
+
+Turn = 18.
+  01234567
+0 r.rrrrr.
+1 rr.rrr.r
+2 rrrrr.r.
+3 rrr.rrr.
+4 rrrrrrrr
+
+Turn = 27.
+  01234567
+0 rrr.r.r.
+1 rrr...rr
+2 rrrrrr.r
+3 rrrrrrr.
+4 rrrrrrrr
+
+Turn = 36.
+  01234567
+0 rrrrrrrr
+1 rrr..r.r
+2 rrrr.rr.
+3 rrrrrr.r
+4 rrrrr..r
+
+Turn = 45.
+  01234567
+0 rrrrrr.r
+1 rrrrrrr.
+2 rrr.rr.r
+3 r.rrrrr.
+4 rrr.rrr.
+
+Turn = 54.
+  01234567
+0 rrrrrrr.
+1 r.rrr.r.
+2 rrrrrrrr
+3 rrrrr.r.
+4 r.rrrr.r
+
+Turn = 63.
+  01234567
+0 rrrr.rr.
+1 rrrr.rrr
+2 rrrrr.rr
+3 rrrrrrrr
+4 .r.rr..r
+
+Turn = 72.
+  01234567
+0 rrrrr.rr
+1 .rrr.r.r
+2 rrrr..rr
+3 rrrrrrr.
+4 rrrrrrr.
+
+*** Darwin 4x3 ***
+Turn = 0.
+  012
+0 hrh
+1 hff
+2 tfh
+3 hth
+
+Turn = 6.
+  012
+0 rrr
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 12.
+  012
+0 rrr
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 18.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 24.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 30.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 36.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 42.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 48.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 54.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 60.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 66.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 72.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 78.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 84.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 90.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 96.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 102.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+Turn = 108.
+  012
+0 ttt
+1 ttt
+2 ttt
+3 ttt
+
+*** Darwin 5x4 ***
+Turn = 0.
+  0123
+0 tfrr
+1 tfth
+2 ttrh
+3 .rr.
+4 rtrr
+
+Turn = 20.
+  0123
+0 tttt
+1 tttt
+2 tttt
+3 tt..
+4 tttt
+
+Turn = 40.
+  0123
+0 tttt
+1 tttt
+2 tttt
+3 tt..
+4 tttt
+
+Turn = 60.
+  0123
+0 tttt
+1 tttt
+2 tttt
+3 tt..
+4 tttt
+
+*** Darwin 1x6 ***
+Turn = 0.
+  012345
+0 hhthhh
+
+Turn = 14.
+  012345
+0 tttttt
+
+Turn = 28.
+  012345
+0 tttttt
+
+Turn = 42.
+  012345
+0 tttttt
+
+Turn = 56.
+  012345
+0 tttttt
+
+Turn = 70.
+  012345
+0 tttttt
+
+Turn = 84.
+  012345
+0 tttttt
+
+Turn = 98.
+  012345
+0 tttttt
+
+Turn = 112.
+  012345
+0 tttttt
+
+*** Darwin 4x1 ***
+Turn = 0.
+  0
+0 h
+1 f
+2 r
+3 t
+
+Turn = 4.
+  0
+0 h
+1 f
+2 r
+3 r
+
+Turn = 8.
+  0
+0 h
+1 r
+2 r
+3 r
+
+Turn = 12.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 16.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 20.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 24.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 28.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 32.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 36.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 40.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 44.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 48.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 52.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 56.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 60.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 64.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 68.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 72.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 76.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 80.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 84.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 88.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 92.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 96.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 100.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 104.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 108.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 112.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 116.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 120.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 124.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 128.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 132.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 136.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 140.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 144.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 148.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 152.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 156.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 160.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 164.
+  0
+0 r
+1 r
+2 r
+3 r
+
+Turn = 168.
+  0
+0 r
+1 r
+2 r
+3 r
+
+*** Darwin 2x10 ***
+Turn = 0.
+  0123456789
+0 hrrhfthhhh
+1 tffhrhtffr
+
+Turn = 2.
+  0123456789
+0 rrrhttthrh
+1 tttrrhtfrr
+
+Turn = 4.
+  0123456789
+0 ttrttttrrr
+1 ttttttttrr
+
+Turn = 6.
+  0123456789
+0 tttttttrrr
+1 tttttttttt
+
+Turn = 8.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 10.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 12.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 14.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 16.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 18.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 20.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 22.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 24.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 26.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 28.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 30.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 32.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 34.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 36.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 38.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 40.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 42.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 44.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 46.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 48.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 50.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 52.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 54.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 56.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 58.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 60.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 62.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 64.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 66.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 68.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 70.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 72.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 74.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 76.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 78.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 80.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 82.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 84.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 86.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 88.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 90.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 92.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 94.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 96.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 98.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 100.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 102.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 104.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 106.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 108.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 110.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 112.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 114.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 116.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 118.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 120.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 122.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 124.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 126.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 128.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 130.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 132.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 134.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 136.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 138.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 140.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 142.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 144.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 146.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 148.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 150.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+Turn = 152.
+  0123456789
+0 tttttttttt
+1 tttttttttt
+
+*** Darwin 3x3 ***
+Turn = 0.
+  012
+0 rft
+1 trh
+2 hrt
+
+Turn = 7.
+  012
+0 ttt
+1 ttt
+2 ttt
+
+*** Darwin 4x7 ***
+Turn = 0.
+  0123456
+0 tffhttf
+1 tfrrtrr
+2 ffrfhth
+3 fhfhtfh
+
+Turn = 12.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 ttttttt
+
+Turn = 24.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 ttttttt
+
+Turn = 36.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 ttttttt
+
+Turn = 48.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 ttttttt
+
+Turn = 60.
+  0123456
+0 ttttttt
+1 ttttttt
+2 ttttttt
+3 ttttttt
